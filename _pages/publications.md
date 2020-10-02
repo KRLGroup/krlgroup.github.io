@@ -103,9 +103,9 @@ permalink: /publications/
       <br/>
       {% if publi.link.url  %}<a href="{{ publi.link.url }}">Paper</a>&nbsp;&nbsp;{% endif %}
       {% if publi.code  %}<a href="{{ publi.code }}">Code</a>&nbsp;&nbsp;{% endif %}
-      {% if publi.bibtex %}<a href="javascript:toggleBibtex('{{ publi.title }}')">BibTeX</a>&nbsp;&nbsp;
+      {% if publi.bibtex %}<a href="javascript:toggleBibtex('{{ publi.title }}list')">BibTeX</a>&nbsp;&nbsp;
       {% if publi.blog %}<a href="{{ site.url }}{{ site.baseurl }}/{{ publi.blog }}">Blog Post</a>{% endif %}
-      <div id="bib_{{ publi.title }}" class="bibtex noshow">
+      <div id="bib_{{ publi.title}}list" class="bibtex noshow">
         <pre>
         {{publi.bibtex}}
         </pre>

@@ -1,4 +1,4 @@
-I"n<h1 class="sapienza-text"> Publications</h1>
+I"s<h1 class="sapienza-text"> Publications</h1>
 
 <h2 class="sapienza-text">In evidence</h2>
 <script type="text/javascript">
@@ -73,9 +73,9 @@
       <br />
       <a href="https://www.ijcai.org/Proceedings/2020/0278.pdf">Paper</a>&nbsp;&nbsp;
       <a href="https://github.com/KRLGroup/explainable-inference-on-sequential-data-via-memory-tracking">Code</a>&nbsp;&nbsp;
-      <a href="javascript:toggleBibtex('Explainable Inference on Sequential Data via Memory-Tracking')">BibTeX</a>&nbsp;&nbsp;
+      <a href="javascript:toggleBibtex('Explainable Inference on Sequential Data via Memory-Tracking2')">BibTeX</a>&nbsp;&nbsp;
       <a href="http://localhost:4000/explainable_inference">Blog Post</a>
-      <div id="bib_Explainable Inference on Sequential Data via Memory-Tracking" class="bibtex noshow">
+      <div id="bib_Explainable Inference on Sequential Data via Memory-Trackinglist" class="bibtex noshow">
         <pre>
         @inproceedings{LaRosa20,<br /> title     = {Explainable Inference on Sequential Data via Memory-Tracking},<br /> author    = {La Rosa, Biagio and Capobianco, Roberto and Nardi, Daniele},<br /> booktitle = {Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence, {IJCAI-20}},<br /> publisher = {International Joint Conferences on Artificial Intelligence Organization},  <br /> pages     = {2006--2013},<br /> year      = {2020},<br /> month     = {7},<br /> doi       = {10.24963/ijcai.2020/278},<br /> url       = {https://doi.org/10.24963/ijcai.2020/278},<br /> }
         </pre>
