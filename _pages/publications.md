@@ -44,7 +44,7 @@ permalink: /publications/
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>&nbsp;&nbsp;
-  <a href="{{ publi.link.code }}">Code</a>&nbsp;&nbsp;
+  <a href="{{ publi.code }}">Code</a>&nbsp;&nbsp;
    {% if publi.bibtex %}<a href="javascript:toggleBibtex('{{ publi.title }}')">BibTeX</a>{% endif %}&nbsp;&nbsp;
    {% if publi.blog %}<a href="{{ site.url }}{{ site.baseurl }}/{{ publi.blog }}">Blog Post</a>{% endif %}
   </strong></p>

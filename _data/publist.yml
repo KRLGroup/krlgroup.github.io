@@ -7,7 +7,7 @@
   link:
     url: https://www.ijcai.org/Proceedings/2020/0278.pdf
     display:  Paper
-  code: https://github.com/KRLGroup/explainable-inference-on-sequential-data-via-memory-tracking/
+  code: https://github.com/KRLGroup/explainable-inference-on-sequential-data-via-memory-tracking
   highlight: 1
   news2:
   blog: "explainable_inference"
