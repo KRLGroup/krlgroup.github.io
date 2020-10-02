@@ -1,6 +1,6 @@
 - title: "Explainable Inference on Sequential Data via Memory-Tracking"
   image: memoryexp.png
-  description: Short Description.  Short Description.  Short Description.  Short Description. Short Description. Short Description. Short Description. Short Description. Short Description. Short Description.
+  description: We propose an approach to build explanations for sequential tasks exploiting the memory reading and writing operations of Memory Augumented Neural Networks.
   authors: Biagio La Rosa, Roberto Capobianco and Daniele Nardi
   year: 2020
   publisher: Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence (IJCAI-20)
