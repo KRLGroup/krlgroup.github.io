@@ -50,7 +50,7 @@ permalink: /team/
   {% endif %}
   {% if member.linkedin %}
   <a href="https://www.linkedin.com/in/{{member.linkedin}}">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/icons/linkedin_sapienza.png" class="icons" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/icons/linkedin.png" class="icons" />
   </a>
   {% endif %}
 
