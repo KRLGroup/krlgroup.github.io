@@ -1,5 +1,5 @@
 ---
-title: "News"
+title: "KRL Research Group - News"
 layout: textlay
 excerpt: "KRL Research Group"
 sitemap: false

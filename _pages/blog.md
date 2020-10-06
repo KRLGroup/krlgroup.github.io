@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blog
+title: KRL Research Group - Blog
 permalink: /blog/
 ---
 <h1 class="sapienza-text">Latest Posts</h1>
