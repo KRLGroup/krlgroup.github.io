@@ -19,7 +19,7 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="responsive" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" alt="photo {{member.name}}" class="responsive" style="float: left" />
   <h4 class="person-name">{{ member.name }}</h4>
   <i>
     {{ member.info }}
@@ -30,27 +30,27 @@ permalink: /team/
   {% endif %}
   {% if member.webpage %}
   <a href="{{member.webpage}}">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/icons/home.png" class="icons" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/icons/home.png" alt="Home page {{member.name}}" class="icons" />
   </a>
   {% endif %}
   {% if member.email %}
   <a href="mailto:{{member.email}}">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/icons/email.png" class="icons" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/icons/email.png" alt="Email {{member.name}}" class="icons" />
   </a>
   {% endif %}
   {% if member.github %}
   <a href="https://github.com//{{member.github}}">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/icons/github.png" class="icons" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/icons/github.png" alt="Githun {{member.name}}" class="icons" />
   </a>
   {% endif %}
   {% if member.twitter %}
   <a href="https://twitter.com/{{member.twitter}}">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/icons/twitter.png" class="icons" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/icons/twitter.png" alt="Twitter {{member.name}}" class="icons" />
   </a>
   {% endif %}
   {% if member.linkedin %}
   <a href="https://www.linkedin.com/in/{{member.linkedin}}">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/icons/linkedin.png" class="icons" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/icons/linkedin.png" alt="Linkedin {{member.name}}" class="icons" />
   </a>
   {% endif %}
 
