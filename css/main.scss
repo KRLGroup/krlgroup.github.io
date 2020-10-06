@@ -65,6 +65,12 @@ p.byline {
 	margin-top: 10px;
 }
 
+.slider_img {
+    height:350px !important;
+    width:auto ;/*maintain aspect ratio*/
+	max-width:60% !important;
+}
+
 .sapienza-bg{
 	background-color: #81002e;
 }
