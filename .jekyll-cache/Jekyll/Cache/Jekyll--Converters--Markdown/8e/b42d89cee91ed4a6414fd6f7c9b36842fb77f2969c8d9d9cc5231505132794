@@ -1,4 +1,4 @@
-I"�<h2 class="sapienza-text">Group Members</h2>
+I"�<h2 class="sapienza-text">Group Members</h2>
 
 <p><strong>We are  looking for new PhD students, Postdocs, and Master students to join the team</strong> <a href="http://localhost:4000/vacancies">(see openings)</a> <strong>!</strong></p>
 
@@ -12,7 +12,7 @@
   </i>
   <br /></p>
 
-    <p><b>Bio: </b>I am a Research Scientist at Sony AI and Assistant Professor at the Department of Computer, Control, and Management Engineering “Antonio Ruberti” (DIAG), Sapienza University of Rome. I am also a freelancer, consulting for companies and start-ups on artificial intelligence, machine learning and robotics.</p>
+    <p><b>Bio: </b>I am a Research Scientist at Sony AI and Assistant Professor at the Department of Computer, Control, and Management Engineering “Antonio Ruberti” (DIAG), Sapienza University of Rome. I am also a freelancer, consulting for companies and start-ups on artificial intelligence, machine learning and robotics. My research is focused on reinforcement learning, AI explainability, robot control and knowledge representation.</p>
 
     <p><a href="http://robertocapobianco.com/">
   <img src="http://localhost:4000/images/icons/home.png" class="icons" />
@@ -27,6 +27,8 @@
     PhD Student
   </i>
   <br /></p>
+
+    <p><b>Bio: </b>I am a continuous learner that loves learning new concepts from different fields and domains — e.g. AI, psychology, astronomy and neuroscience. My research is focused on improving the interpretability of Deep Learning techniques, such as Recurrent Networks or Memory Augumented Neural Networks. I am deeply interested on the connection between memory, learning process and interpretability from both computational and cognitive perspectives. I have a background in computer science and Artificial Intelligence, having a M. Sc. degree in “Artificial Intelligence and Robotics” and a B. Sc. in “Computer Science”, both from the Sapienza University.</p>
 
     <p><a href="https://biagiomattialarosa.github.io/">
   <img src="http://localhost:4000/images/icons/home.png" class="icons" />

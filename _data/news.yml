@@ -1,9 +1,12 @@
-- date: 29. Semptember 2020
+- date: 1. October 2020
+  headline: 'A porting on PyTorch of our paper "Explainable Inference on Sequential Data via Memory-Tracking" has been officially released <a href="https://github.com/KRLGroup/explainable-inference-on-sequential-data-via-memory-tracking">here</a> '
+
+- date: 29. September 2020
   headline: "Welcome to the first PhD student of our group: Biagio La Rosa!"
 
 - date: 10. July 2020
-  headline: "IJCAI-2020 proceedings are out!! You can find our paper here. The code and the blog post are coming soon!!!"
+  headline: "IJCAI-2020 proceedings are out!! You can find our paper <a href='https://www.ijcai.org/Proceedings/2020/0278.pdf'>here</a>. The code and the blog post are coming soon!!!"
 
 - date: 20. April 2020
-  headline: "Our paper on “Explainable Inference on Sequencial Data via Memory-Tracking” has been accepted at IJCAI-PRICAI 2020 !!!"
+  headline: "Our paper on “Explainable Inference on Sequential Data via Memory-Tracking” has been accepted at IJCAI-PRICAI 2020 !!!"
 
