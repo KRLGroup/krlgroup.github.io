@@ -39,7 +39,7 @@ permalink: /team/
   </a>
   {% endif %}
   {% if member.github %}
-  <a href="https://github.com//{{member.github}}">
+  <a href="https://github.com/{{member.github}}">
   <img src="{{ site.url }}{{ site.baseurl }}/images/icons/github.png" alt="Githun {{member.name}}" class="icons" />
   </a>
   {% endif %}
