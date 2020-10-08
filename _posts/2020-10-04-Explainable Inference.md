@@ -15,15 +15,15 @@ In the last decade, AI reached a great success thanks to the explosion of Deep L
 
 The eXplainable Artificial Intelligence (XAI) field aims to address this problem providing methods that extract insights from the inner working of these systems. While there is an extensive literature on image classification tasks, tabular data and classical settings, there are few works that address the problem on sequential tasks or advanced settings of the latest architectures.
 
-Moreover, most of the model-agnostic approaches start from the assumption that features are independent, or they purposely ignore their dependencies, due to the high computational cost required to compute high order relations between features. Conversely, the most recent architectures like *recurrent memory networks*, *transformers* and *graph neural networks* exploit selective features interaction more and more, creating a gap on the understanding about the motivation behind the success of these architectures. Our work makes a step towards this direction, proposing a method to get explanations about predictions of memory augmented neural networks on tasks that involve sequential data.
+Moreover, most of the model-agnostic approaches start from the assumption that features are independent, or they purposely ignore their dependencies, due to the high computational cost required to compute high order relations between features. Conversely, the most recent architectures like *recurrent memory networks*, *transformers* and *graph neural networks* exploit selective features interaction more and more, creating a gap on the understanding about the motivation behind the success of these architectures. Our work makes a step towards this direction, proposing a method to get explanations about predictions of Memory Augmented Neural Networks on tasks that involve sequential data.
 
 <h3 class="sapienza-text">An Example</h3>
 Let's begin with an example of a popular model-agnostic method: LIME[1]. This example will show us some of the limitations of these approaches.
 
-Consider the Story Cloze Test dataset, a commonsense reasoning
+Consider the Story Cloze Test dataset [3], a commonsense reasoning
 framework for evaluating story understanding. In this task,
 an agent has to choose between two possible endings for a
-set of stories composed by four premises each. We trained a Memory Augmented Neural Network, namely a Simplified Differentiable Neural Computer [2], to solve the problem and then we run LIME on its predictions. An output example is shown on figure 1.
+set of stories composed by four premises each. We trained a Memory Augmented Neural Network, namely a **Simplified Differentiable Neural Computer** (based on [2]), to solve the problem and then we run LIME on its predictions. An output example is shown on figure 1.
 
 <center>
 <div style=" width:400px">
@@ -56,17 +56,17 @@ figure), containing a list of explanations sorted by their relevance.</em></smal
 </center>
 <br>
 
-It includes: an LSTM that acts as *controller*, a *memory module* and an *explanation module*. 
+It includes: an LSTM that acts as <em>controller</em>, a <em>memory module</em> and an <em>**explanation module**</em>. 
 As shown on Figure 2, for each step:
 - the controller takes the sequential input and, because it is an LSTM, produces a state on the basis of the current step and the context vector that summarize the previous steps;<br>
 - the memory takes the current controller state and performs a read and writing operation. The write operation simply writes into the memory the content of the state. The reading operation uses a content-attention mechanism to retrieve the content of memory cells similar to the current state. The weighted sum of the reading operation is summarized in a *read vector*; <br>
 - the explanation module keeps track of the writing and reading opreation, storing the weights associated to each cells in both of them and storing where the information are written or read during the input parsing;
 - At the end, a final layer takes the read vector and the current controller state and returns the final answer.
 
-Hence, the memory content is **actively** used during the inference process thanks to the read vector. Additionally, to enforce the network to rely on memory, we insert a dropout layer between the controller and the final layer to penalize a little bit its weight in the last layer. 
+Hence, the memory content is **actively** used during the inference process thanks to the read vector. Additionally, to enforce the network to rely on memory, we insert a dropout layer [4] between the controller and the final layer to penalize a little bit its weight in the last layer. 
 
 At this point the explanation module has all the ingredients it needs. Based on the given task, it can extract insights from the inner working of the network.
-For example, in Story Cloze test, it stores all the written cells during the premises parsing and links each word to a subset of cells. Then it considers all the read cells during the parsing of the chosen ending and checks to which word these are linked. Note that we consider only the topX of the read cells for each step.
+For example, in Story Cloze test, it stores all the written cells during the premises parsing and links each word to a subset of cells. Then it considers all the *read cells* during the parsing of the chosen ending and checks to which word these are linked. Note that we consider only the topX of the *read cells* for each step.
 
 Let's consider a simplified example. Suppose that we have an input of the form:
 P<sub>1</sub>: X<sub>1</sub> X<sub>2</sub> X<sub>3</sub><br>
@@ -95,7 +95,7 @@ red if wrong.</em></small>
 
 As mentioned before, our method generates a rank. From the rank, we can identify the best and the worst premise, as the premise with the highest and the lowest number of readings. We are interested to check:
 - that the rank is enough good;
-- how the number of read cells considered for each step (topX paramenter) influences the explanations.
+- how the number of *read cells* considered for each step (topX paramenter) influences the explanations.
 
 <center>
 <div style=" width:400px">
@@ -109,8 +109,8 @@ worst premise.</em></small>
 
 For the first question, supposing that a good explanation is sufficient to
 justify a certain prediction, we compute the accuracy of the
-model in reproducing its predictions using only the best
-and worst premises — in place of the full story. Intuitively,
+model in reproducing its predictions using only the **best
+and worst premises** — in place of the full story. Intuitively,
 if the explanation for a certain prediction is good, feeding
 that information alone to the network should result often in the
 same prediction.<br>
@@ -126,10 +126,24 @@ the best and worst premises using different numbers of read cells for each step.
 <br>
 
 Regarding the second question, we performed some experiments varying the size in the range {1,5,10,25}, reported in figure 5. If topx is 1, it means that for each step we consider as "read cell" only the cell that has the highest reading weight. If topX is 5 we consider the cells with the top 5 highest reading weights and so on.
-We find that the best premise improves its performance when we consider few read cells for each step, and it makes sense because the cells considered are only that with highest weights,
+We find that the best premise improves its performance when we consider few *read cells* for each step, and it makes sense because the cells considered are only that with highest weights,
 they are highly represented in the read vector returned by the
 memory and they have a direct influence on the final prediction.
 The worst premise accuracy is more tricky. Indeed, using few cells it is likely that the cells refers to only one or two premises, and the choice of the worst premise becomes nearly random. Conversely, using more cell, all the premises will be represented in the read history and the choice of the worst premise become a little bit more reliable. 
 
 
 These promising results make the proposed approach definitely worth additional investigation. In particular, we aim at further improving the quality of provided explanations, better understanding memory-based explanation mechanisms, and extending the applicability of our approach to different domains in future work.
+
+<h3 class="sapienza-text">References</h3>
+\[1\]: <em>"Why Should I Trust You?": Explaining the Predictions of Any Classifier</em> - Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin. <a href="https://arxiv.org/abs/1602.04938">LINK</a>
+
+\[2\]: <em>"Hybrid computing using a neural network with dynamic external memory"</em>- Alex Graves, Greg Wayne, Malcolm Reynolds, Tim Harley, Ivo Danihelka, Agnieszka Grabska-Barwińska, Sergio Gómez Colmenarejo, Edward Grefenstette, Tiago Ramalho, John Agapiou, Adrià Puigdomènech Badia, Karl Moritz Hermann, Yori Zwols, Georg Ostrovski, Adam Cain, Helen King, Christopher Summerfield, Phil Blunsom, Koray Kavukcuoglu & Demis Hassabis. <a href="https://www.nature.com/articles/nature20101">LINK</a>
+
+\[3\]: <em>A corpus and cloze evaluation for deeper
+understanding of commonsense stories</em> - Nasrin Mostafazadeh,
+Nathanael Chambers, Xiaodong He, Devi Parikh,
+Dhruv Batra, Lucy Vanderwende, Pushmeet Kohli, and
+James Allen. <a href="https://www.aclweb.org/anthology/N16-1098/">LINK</a>
+
+\[4\]: <em>Robust and scalable differentiable neural computer for question answering</em> - Jorg Franke, Jan Niehues, and Alex ¨
+Waibel. <a href="https://www.aclweb.org/anthology/W18-2606.pdf/">LINK</a>
