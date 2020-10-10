@@ -8,7 +8,7 @@ author: Biagio La Rosa
 permalink: explainable_inference
 ---
 
-This post describes the proposed approach of our IJCAI paper "Explainable Inference on Sequential Data via Memory-Tracking" written by Biagio La Rosa, Roberto Capobianco and Daniele Nardi. For further information and results, please check the full <a href="https://www.ijcai.org/Proceedings/2020/0278.pdf">paper</a>.
+This post describes the proposed approach of our IJCAI paper "Explainable Inference on Sequential Data via Memory-Tracking" written by Biagio La Rosa, Roberto Capobianco and Daniele Nardi. For further information and results, please check the full <a href="https://www.ijcai.org/Proceedings/2020/0278.pdf">paper</a>. You can find also the code <a href="https://github.com/KRLGroup/explainable-inference-on-sequential-data-via-memory-tracking/">here</a>.
 
 <h3 class="sapienza-text"> Introduction</h3>
 In the last decade, AI reached a great success thanks to the explosion of Deep Learning techniques. Unfortunately, improvements in performance come at the cost of the interpretability: the high complexity of the networks make them seen as **black boxes**, where you feed your data into the network and get the output without the possibility to check or to understand the motivations behind that decision.
@@ -129,10 +129,11 @@ Regarding the second question, we performed some experiments varying the size in
 We find that the best premise improves its performance when we consider few *read cells* for each step, and it makes sense because the cells considered are only that with highest weights,
 they are highly represented in the read vector returned by the
 memory and they have a direct influence on the final prediction.
-The worst premise accuracy is more tricky. Indeed, using few cells it is likely that the cells refers to only one or two premises, and the choice of the worst premise becomes nearly random. Conversely, using more cell, all the premises will be represented in the read history and the choice of the worst premise become a little bit more reliable. 
+The worst premise accuracy is more tricky. Indeed, using few cells it is likely that the cells refers to only one or two premises, and the choice of the worst premise becomes nearly random. Conversely, using more cell, all the premises will be represented in the read history and the choice of the worst premise become a little bit more reliable. <br>
 
+Finally, we suggest to check out our <a href="https://github.com/KRLGroup/explainable-inference-on-sequential-data-via-memory-tracking/">code</a> to deepen the topic and to reproduce the results presented above. 
 
-These promising results make the proposed approach definitely worth additional investigation. In particular, we aim at further improving the quality of provided explanations, better understanding memory-based explanation mechanisms, and extending the applicability of our approach to different domains in future work.
+In conclusion, these promising results make the proposed approach definitely worth additional investigation. In particular, we aim at further improving the quality of provided explanations, better understanding memory-based explanation mechanisms, and extending the applicability of our approach to different domains in future work.
 
 <h3 class="sapienza-text">References</h3>
 \[1\]: <em>"Why Should I Trust You?": Explaining the Predictions of Any Classifier</em> - Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin. <a href="https://arxiv.org/abs/1602.04938">LINK</a>
