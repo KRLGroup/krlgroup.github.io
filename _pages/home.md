@@ -42,14 +42,11 @@ The Knowledge, Reasoning and Learning Group at the University "Sapienza" of Rome
 
 
 
-To this end, we develop 
-
-We are located at 
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-We are grateful for funding from 
+We are grateful for funding from:
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sapienza.webp" style="width: 150px">
