@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The Knowledge, Reasoning and Learning Group at the University "Sapienza" of Rome is a dynamic research group of faculty, PhD and master students inside the <a href="http://labrococo.dis.uniroma1.it/">Ro.Co.Co. Lab</a>. It is led by prof. <a href="http://robertocapobianco.com/">Roberto Capobianco</a> and current emphases of research includes robot learning, knowledge acquisition and learning, reinforcement learning and explainable artificial intelligence. KRL members are involved also on works in collaboration with other research areas like chemistry, exoplanet exploration and industrial robot application.
+The Knowledge, Reasoning and Learning Group at the University "Sapienza" of Rome is a dynamic research group of faculty, PhD and master students inside the <a href="http://labrococo.dis.uniroma1.it/">Ro.Co.Co. Lab</a>. It is led by prof. <a href="http://robertocapobianco.com/">Roberto Capobianco</a> and current emphases of research includes robot learning, knowledge acquisition and learning, reinforcement learning and explainable artificial intelligence. KRL members are also involved on works in collaboration with other research areas like chemistry, exoplanet exploration and industrial robot application.
 
 
 
