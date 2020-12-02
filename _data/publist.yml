@@ -27,6 +27,7 @@ keywords = {Autonomous planning and learning, Monte-Carlo planning, Q-learning, 
   link:
     url: https://arxiv.org/pdf/2010.10560.pdf
     display:  Paper
+  code: https://github.com/SonyAI/PandemicSimulator
   bibtex: "@misc{kompella2020reinforcement,<br>
       title={Reinforcement Learning for Optimization of COVID-19 Mitigation policies}, <br>
       author={Varun Kompella and Roberto Capobianco and Stacy Jong and Jonathan Browne and Spencer Fox and Lauren Meyers and Peter Wurman and Peter Stone},<br>
