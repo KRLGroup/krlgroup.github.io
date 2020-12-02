@@ -1,3 +1,65 @@
+
+- title: "LoOP: Iterative learning for optimistic planning on robots"
+  authors: Francesco Riccio, Roberto Capobianco and Daniele Nardi
+  year: 2020
+  publisher: Robotics and Autonomous Systems
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0921889020305339
+    display:  Paper
+  bibtex: "@article{RICCIO2021103693,
+title = {LoOP: Iterative learning for optimistic planning on robots},
+journal = {Robotics and Autonomous Systems},
+abstract = {Efficient robotic behaviors require robustness and adaptation to dynamic changes of the environment, whose characteristics rapidly vary during robot operation. To generate effective robot action policies, planning and learning techniques have shown the most promising results. However, if considered individually, they present different limitations. Planning techniques lack generalization among similar states and require experts to define behavioral routines at different levels of abstraction. Conversely, learning methods usually require a considerable number of training samples and iterations of the algorithm. To overcome these issues, and to efficiently generate robot behaviors, we introduce LoOP, an iterative learning algorithm for optimistic planning that combines state-of-the-art planning and learning techniques to generate action policies. The main contribution of LoOP is the combination of Monte-Carlo Search Planning and Q-learning, which enables focused exploration during policy refinement in different robotic applications. We demonstrate the robustness and flexibility of LoOP in various domains and multiple robotic platforms, by validating the proposed approach with an extensive experimental evaluation.}
+volume = {136},
+pages = {103693},
+year = {2021},
+issn = {0921-8890},
+doi = {https://doi.org/10.1016/j.robot.2020.103693},
+url = {http://www.sciencedirect.com/science/article/pii/S0921889020305339},
+author = {Francesco Riccio and Roberto Capobianco and Daniele Nardi},
+keywords = {Autonomous planning and learning, Monte-Carlo planning, Q-learning, Deep robot reinforcement learning},
+}"
+
+- title: "Reinforcement Learning for Optimization of COVID-19 Mitigation policies"
+  authors: Varun Kompella, Roberto Capobianco, Stacy Jong, Jonathan Browne, Spencer Fox, Lauren Meyers, Peter Wurman and Peter Stone
+  year: 2020
+  publisher: arXiv preprint
+  link:
+    url: https://arxiv.org/pdf/2010.10560.pdf
+    display:  Paper
+  bibtex: "@misc{kompella2020reinforcement,
+      title={Reinforcement Learning for Optimization of COVID-19 Mitigation policies}, 
+      author={Varun Kompella and Roberto Capobianco and Stacy Jong and Jonathan Browne and Spencer Fox and Lauren Meyers and Peter Wurman and Peter Stone},
+      year={2020},
+      eprint={2010.10560},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}"
+
+- title: "GUESs: Generative modeling of Unknown Environments
+and Spatial Abstraction for Robots"
+  authors: Francesco Riccio, Roberto Capobianco and Daniele Nardi
+  year: 2020
+  publisher: Proceedings of the 19th International Conference on Autonomous Agents and MultiAgent Systems
+  link:
+    url: http://www.ifaamas.org/Proceedings/aamas2020/pdfs/p1978.pdf
+    display:  Paper
+  bibtex: "@inproceedings{10.5555/3398761.3399047,
+author = {Riccio, Francesco and Capobianco, Roberto and Nardi, Daniele},
+title = {GUESs: Generative Modeling of Unknown Environments and Spatial Abstraction for Robots},
+year = {2020},
+isbn = {9781450375184},
+publisher = {International Foundation for Autonomous Agents and Multiagent Systems},
+address = {Richland, SC},
+abstract = {Representing unknown and missing knowledge about the environment is fundamental to leverage robot behavior and improve its performance in completing a task. However, reconstructing spatial knowledge beyond the sensory horizon of the robot is an extremely challenging task. Existing approaches assume that the environment static and features repetitive patterns (e.g. rectangular rooms) or that it can be all generalized with pre-trained models. Our goal is to remove such assumptions and to introduce a novel methodology that allows the robot to represent unknown spatial knowledge in dynamic and unstructured environments. To this end, we exploit generative learning to (1) learn a distribution of spatial landmarks observed during the robot mission and to (2) generate missing information in real-time. The proposed approach aims at supporting planning and decision-making processes needed for robot behaviors. In this paper, we describe architecture modeling the proposed approach and a first validation on a mobile platform.},
+booktitle = {Proceedings of the 19th International Conference on Autonomous Agents and MultiAgent Systems},
+pages = {1978–1980},
+numpages = {3},
+keywords = {generative learning, knowledge representation, robot learning},
+location = {Auckland, New Zealand},
+series = {AAMAS '20}
+}"
+
 - title: "Explainable Inference on Sequential Data via Memory-Tracking"
   image: memoryexp.png
   description: We propose an approach to build explanations for sequential tasks exploiting the memory reading and writing operations of Memory Augumented Neural Networks.
@@ -24,11 +86,3 @@
   url       = {https://doi.org/10.24963/ijcai.2020/278},<br>
 }"
 
-- title: "GUESs: Generative modeling of Unknown Environments
-and Spatial Abstraction for Robots"
-  authors: Francesco Riccio, Roberto Capobianco and Daniele Nardi
-  year: 2020
-  publisher: Proceedings of the 19th International Conference on Autonomous Agents and MultiAgent Systems
-  link:
-    url: http://www.ifaamas.org/Proceedings/aamas2020/pdfs/p1978.pdf
-    display:  Paper
