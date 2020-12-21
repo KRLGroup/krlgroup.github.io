@@ -1,4 +1,13 @@
 
+- title: "Multiagent Epidemiologic Inference through Realtime Contact Tracing"
+  authors: Guni Sharon, James Ault, Peter Stone, Varun Kompella and Roberto Capobianco
+  year: 2021
+  publisher: 20th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2021)
+  link:
+    url: 
+    display:  Paper
+  bibtex: 
+
 - title: "LoOP: Iterative learning for optimistic planning on robots"
   authors: Francesco Riccio, Roberto Capobianco and Daniele Nardi
   year: 2020
