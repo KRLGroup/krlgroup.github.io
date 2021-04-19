@@ -67,7 +67,7 @@ permalink: /team/
 {% endfor %}
 
 <div class="row"></div>
-<h3 class="sapienza-text">PhD students</h3>
+<h3 class="sapienza-text">PhD Students</h3>
 
 {% assign number_printed = 0 %}
 {% for member in site.data.phd %}
