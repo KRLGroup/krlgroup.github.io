@@ -26,6 +26,35 @@
   twitter: 
   email: 
 
+- name: Isabella Claire Adriani
+  photo: no_avatar.jpg
+  info: Master Student
+  email: 
+  bio: 
+  webpage: 
+  linkedin:
+  twitter:
+  github:
+
+- name: Roberto Aureli
+  photo: no_avatar.jpg
+  info: Master Student
+  email: 
+  bio: 
+  webpage: 
+  linkedin:
+  twitter:
+  github:
+
+- name: Riccardo Caprari
+  photo: no_avatar.jpg
+  info: Master Student
+  email: 
+  bio: 
+  webpage: 
+  linkedin:
+  twitter:
+  github:
 
 - name: Francesco Chichi
   photo: no_avatar.jpg
@@ -38,6 +67,26 @@
   github:
 
 - name: Giulia Ciabatti
+  photo: no_avatar.jpg
+  info: Master Student
+  email: 
+  bio: 
+  webpage: 
+  linkedin:
+  twitter:
+  github:
+
+- name: Roberto Gallotta
+  photo: no_avatar.jpg
+  info: Master Student
+  email: 
+  bio: 
+  webpage: 
+  linkedin:
+  twitter:
+  github:
+
+- name: Sayo Makinwa
   photo: no_avatar.jpg
   info: Master Student
   email: 
@@ -67,7 +116,7 @@
   twitter:
   github:
 
-- name: Roberto Gallotta
+- name: Sanni Oluwatoyin Yetunde
   photo: no_avatar.jpg
   info: Master Student
   email: 
@@ -77,42 +126,5 @@
   twitter:
   github:
 
-- name: Riccardo Caprari
-  photo: no_avatar.jpg
-  info: Master Student
-  email: 
-  bio: 
-  webpage: 
-  linkedin:
-  twitter:
-  github:
 
-- name: Roberto Aureli
-  photo: no_avatar.jpg
-  info: Master Student
-  email: 
-  bio: 
-  webpage: 
-  linkedin:
-  twitter:
-  github:
 
-- name: Sayo Makinwa
-  photo: no_avatar.jpg
-  info: Master Student
-  email: 
-  bio: 
-  webpage: 
-  linkedin:
-  twitter:
-  github:
-
-- name: Isabella Claire Adriani
-  photo: no_avatar.jpg
-  info: Master Student
-  email: 
-  bio: 
-  webpage: 
-  linkedin:
-  twitter:
-  github:
