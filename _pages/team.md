@@ -71,7 +71,7 @@ permalink: /team/
 {% endif %}
 
 
-<div class="col-sm-4 clearfix">
+<div class="col-sm-6 clearfix">
 <h4 class="person-name">Past students</h4>
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
