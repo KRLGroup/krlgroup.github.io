@@ -129,7 +129,7 @@ permalink: /team/
 <h3 class="sapienza-text">Master Students</h3>
 
 {% assign number_printed = 0 %}
-{% for member in site.data.members %}
+{% for member in site.data.msc %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
