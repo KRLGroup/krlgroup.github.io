@@ -1,4 +1,13 @@
 
+- title: "Autonomous Planetary Landing via Deep Reinforcement Learning and Transfer Learning"
+  authors: Giulia Ciabatti, Shreyansh Daftry and Roberto Capobianco
+  year: 2021
+  publisher: AI4Space Workshop (CVPR 2021)
+  link:
+    url: 
+    display:  Paper
+  bibtex: 
+
 - title: "Multiagent Epidemiologic Inference through Realtime Contact Tracing"
   authors: Guni Sharon, James Ault, Peter Stone, Varun Kompella and Roberto Capobianco
   year: 2021
