@@ -15,7 +15,15 @@
   link:
     url: http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1182.pdf
     display:  Paper
-  bibtex: 
+  bibtex: "@inproceedings{sharon2021covid,
+ title={Multiagent Epidemiologic Inference through Realtime Contact Tracing},
+ author={Sharon, Guni and Ault, James and Stone, Peter and Kompella, Varun and Capobianco, Roberto},
+ booktitle={Proceedings of the 20th International Conference on Autonomous Agents and MultiAgent Systems (AAMAS 2021)},
+ location = {London, UK},
+ month = {May},
+ year={2021},
+ organization={International Foundation for Autonomous Agents and Multiagent Systems}
+}"
 
 - title: "LoOP: Iterative learning for optimistic planning on robots"
   authors: Francesco Riccio, Roberto Capobianco and Daniele Nardi
