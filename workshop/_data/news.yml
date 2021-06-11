@@ -1,0 +1,19 @@
+- date: 26. Aprile 2021
+  headline: 'Our paper "Autonomous Planetary Landing via Deep Reinforcement Learning and Transfer Learning " has been accepted for publication at CVPR 2021, AI for Space.'
+
+- date: 3. March 2021
+  headline: 'Check out the new blog post from Dr. Peter Stone about the Pandemic Simulator on the <a href="https://www.ai.sony/blog/blog-003/">site of Sony AI</a>.
+  It describes the ideas behind our recent papers “Multiagent Epidemiologic Inference through Realtime Contact Tracing” and “Reinforcement Learning for Optimization of COVID-19 Mitigation Policies”!'
+  
+- date: 1. October 2020
+  headline: 'A porting on PyTorch of our paper "Explainable Inference on Sequential Data via Memory-Tracking" has been officially released <a href="https://github.com/KRLGroup/explainable-inference-on-sequential-data-via-memory-tracking">here</a>.'
+
+- date: 29. September 2020
+  headline: "Welcome to the first PhD student of our group: Biagio La Rosa!"
+
+- date: 10. July 2020
+  headline: "IJCAI-2020 proceedings are out!! You can find our paper <a href='https://www.ijcai.org/Proceedings/2020/0278.pdf'>here</a>. The code and the blog post are coming soon!!!"
+
+- date: 20. April 2020
+  headline: "Our paper on “Explainable Inference on Sequential Data via Memory-Tracking” has been accepted at IJCAI-PRICAI 2020 !!!"
+
