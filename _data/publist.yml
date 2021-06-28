@@ -1,4 +1,13 @@
 
+- title: "Learning Transferable Policies for Autonomous Planetary Landing via Deep Reinforcement Learning"
+  authors: Giulia Ciabatti, Roberto Capobianco, Shreyansh Daftry
+  year: 2021
+  publisher: Ascend, AIAA
+  link:
+    url: 
+    display:  Paper
+  bibtex: 
+
 - title: "Autonomous Planetary Landing via Deep Reinforcement Learning and Transfer Learning"
   authors: Giulia Ciabatti, Shreyansh Daftry and Roberto Capobianco
   year: 2021
