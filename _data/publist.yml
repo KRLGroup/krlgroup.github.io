@@ -6,7 +6,13 @@
   link:
     url: 
     display:  Paper
-  bibtex: 
+  bibtex: "@InProceedings{Ciabatti_2021_CVPR,<br>
+  author = {Ciabatti, Giulia and Daftry, Shreyansh and Capobianco, Roberto},<br>
+   title = {Autonomous Planetary Landing via Deep Reinforcement Learning and Transfer Learning}, <br>
+   booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},<br>
+    month = {June},<br>
+     year = {2021}, <br>
+     pages = {2031-2038} }"
 
 - title: "Multiagent Epidemiologic Inference through Realtime Contact Tracing"
   authors: Guni Sharon, James Ault, Peter Stone, Varun Kompella and Roberto Capobianco
