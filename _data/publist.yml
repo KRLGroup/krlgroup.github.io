@@ -4,7 +4,7 @@
   year: 2021
   publisher: AI4Space Workshop (CVPR 2021)
   link:
-    url: 
+    url: https://openaccess.thecvf.com/content/CVPR2021W/AI4Space/html/Ciabatti_Autonomous_Planetary_Landing_via_Deep_Reinforcement_Learning_and_Transfer_Learning_CVPRW_2021_paper.html
     display:  Paper
   bibtex: "@InProceedings{Ciabatti_2021_CVPR,<br>
   author = {Ciabatti, Giulia and Daftry, Shreyansh and Capobianco, Roberto},<br>
