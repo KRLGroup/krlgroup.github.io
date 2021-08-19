@@ -1,3 +1,21 @@
+- title: "Agent-Based Markov Modeling for Improved COVID-19 Mitigation Policies"
+  authors: Roberto Capobianco, Varun Kompella, James Ault, Guni Sharon, Stacy Jong, Spencer Fox, Lauren Meyers, Peter R. Wurman and Peter Stone
+  year: 2021
+  publisher: Journal of Artificial Intelligence Research (JAIR)
+  link:
+    url: https://jair.org/index.php/jair/article/view/12632
+    display:  Paper
+  bibtex: "@inproceedings{capobianco2021covid,
+ title={Agent-Based {M}arkov Modeling for Improved {COVID}-19 Mitigation Policies},
+ author={Roberto Capobianco and Varun Kompella and James Ault and Guni Sharon and Stacy Jong and
+Spencer Fox and Lauren Meyers and Peter R. Wurman and Peter Stone},
+ month = {August},
+ year={2021},
+ pages = {953--992},
+ Journal = {Journal of Artificial Intelligence Research (JAIR)},
+ Volume = {71},
+ Publisher = {Association for the Advancement of Artificial Intelligence}
+}"
 
 - title: "Learning Transferable Policies for Autonomous Planetary Landing via Deep Reinforcement Learning"
   authors: Giulia Ciabatti, Roberto Capobianco, Shreyansh Daftry
