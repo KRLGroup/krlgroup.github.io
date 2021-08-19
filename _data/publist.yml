@@ -5,16 +5,16 @@
   link:
     url: https://jair.org/index.php/jair/article/view/12632
     display:  Paper
-  bibtex: "@inproceedings{capobianco2021covid,
- title={Agent-Based {M}arkov Modeling for Improved {COVID}-19 Mitigation Policies},
+  bibtex: "@inproceedings{capobianco2021covid,<br>
+ title={Agent-Based {M}arkov Modeling for Improved {COVID}-19 Mitigation Policies},<br>
  author={Roberto Capobianco and Varun Kompella and James Ault and Guni Sharon and Stacy Jong and
-Spencer Fox and Lauren Meyers and Peter R. Wurman and Peter Stone},
- month = {August},
- year={2021},
- pages = {953--992},
- Journal = {Journal of Artificial Intelligence Research (JAIR)},
- Volume = {71},
- Publisher = {Association for the Advancement of Artificial Intelligence}
+Spencer Fox and Lauren Meyers and Peter R. Wurman and Peter Stone},<br>
+ month = {August},<br>
+ year={2021},<br>
+ pages = {953--992},<br>
+ Journal = {Journal of Artificial Intelligence Research (JAIR)},<br>
+ Volume = {71},<br>
+ Publisher = {Association for the Advancement of Artificial Intelligence}<br>
 }"
 
 - title: "Learning Transferable Policies for Autonomous Planetary Landing via Deep Reinforcement Learning"
