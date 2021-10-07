@@ -1,3 +1,41 @@
+- title: "Exploration-Intensive Distractors: Two Environment Proposals and a Benchmarking"
+  authors: Jim Martin Catacora Ocaña, Roberto Capobianco and Daniele Nardi   
+  year: 2021
+  publisher: The 20th International Conference of the Italian Association for Artificial Intelligence (AIxIA 2021)
+  link:
+    url: 
+    display:
+  bibtex:
+
+- title: "Tafl-ES: Exploring Evolution Strategies for Asymmetrical Board Games"
+  authors: Roberto Gallotta and Roberto Capobianco  
+  year: 2021
+  publisher: The 20th International Conference of the Italian Association for Artificial Intelligence (AIxIA 2021)
+  link:
+    url: 
+    display:
+  bibtex: 
+
+- title: "Detection Accuracy for Evaluating Compositional Explanations of Units"
+  authors: Sayo M. Makinwa, Biagio La Rosa and Roberto Capobianco  
+  year: 2021
+  publisher: The 20th International Conference of the Italian Association for Artificial Intelligence (AIxIA 2021)
+  link:
+    url: 
+    display:
+  bibtex: 
+
+- title: "A Discussion about Explainable Inference on Sequential Data via Memory-Tracking"
+  image: memoryexp.png
+  authors: Biagio La Rosa, Roberto Capobianco and Daniele Nardi
+  year: 2021
+  publisher: The 20th International Conference of the Italian Association for Artificial Intelligence (AIxIA 2021)
+  link:
+    url: 
+    display:  Paper
+  bibtex: 
+
+
 - title: "Agent-Based Markov Modeling for Improved COVID-19 Mitigation Policies"
   authors: Roberto Capobianco, Varun Kompella, James Ault, Guni Sharon, Stacy Jong, Spencer Fox, Lauren Meyers, Peter R. Wurman and Peter Stone
   year: 2021
