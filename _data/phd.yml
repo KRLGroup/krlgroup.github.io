@@ -14,19 +14,9 @@
   bio: I am a second-year Ph.D. student at Sapienza University of Rome, under the supervision of professors Giuseppe De Giacomo and Roberto Capobianco. I'm interested in Reinforcement Learning, Planning, and Representation Learning. In particular, my research focuses on bridging the gap between neural networks representation and symbolic logical models, to enhance knowledge transfer, generalization and explainability. I'm also a big fan of robotics applications, developed also during my studies in Artificial Intelligence and Robotics at Sapienza University.
   webpage: https://phd.uniroma1.it/web/ELENA-UMILI_nP1491499_EN.aspx
   github: 
-  linkedin: www.linkedin.com/in/elena-umili-b65a89183
+  linkedin: elena-umili-b65a89183
   twitter: 
   email: umili@diag.uniroma1.it
-
-- name: Alessio Ragno
-  photo: ragno.jpg
-  info: PhD Student
-  bio: I am a Ph.D student in Artificial Intelligence under the supervision of prof. Roberto Capobianco. I am  interestested in the application of AI to different scientific fields and I think that Explainable AI could play an essential role for this purpose. I have a M.Sc. degree in AI & Robotics and a B.Sc. degree in Computer and Control Engineering. I have also some background in the application of AI to drug discovery gained through abroad experience at the University of North Carolina.
-  webpage: 
-  github: spideralessio
-  linkedin: https://www.linkedin.com/in/spideralessio
-  twitter: 
-  email:
 
 - name: Giulia Ciabatti
   photo: ciabatti.jpg
@@ -34,16 +24,18 @@
   bio: I am a PhD student at Sapienza, University of Rome. My interests include AI and Robotics, Aerospace Systems and Astrophysics. My research is focused on developing techniques for interpretability and performance enhancement of Deep Learning, in particular for Deep Reinforcement Learning, by means of a Physics-Informing approach. I am especially interested in developing my research in the fields of aeronautic and space exploration systems, mobile robotics and autonomous manned and unmanned vehicles. I have a B. Sc. in "Aerospace Engineering" and a M. Sc. Degree in "Artificial Intelligence and Robotics", both earned at Sapienza University.
   webpage: 
   github: 
-  linkedin: https://www.linkedin.com/in/giulia-ciabatti-6797b1194
+  linkedin: giulia-ciabatti-6797b1194
   twitter: 
   email: 
 
-- name: Konstantinos Gounis
-  photo: no_avatar.jpg
+- name: Alessio Ragno
+  photo: ragno.jpg
   info: PhD Student
-  bio: 
+  bio: I am a Ph.D student in Artificial Intelligence under the supervision of prof. Roberto Capobianco. I am  interestested in the application of AI to different scientific fields and I think that Explainable AI could play an essential role for this purpose. I have a M.Sc. degree in AI & Robotics and a B.Sc. degree in Computer and Control Engineering. I have also some background in the application of AI to drug discovery gained through abroad experience at the University of North Carolina.
   webpage: 
-  github: 
-  linkedin: 
+  github: spideralessio
+  linkedin: spideralessio
   twitter: 
-  email: 
+  email:
+
+

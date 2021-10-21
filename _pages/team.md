@@ -19,21 +19,21 @@ permalink: /team/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" alt="photo {{member.name}}" class="responsive" style="float: left" />
+<div class="col-sm-5 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" alt="photo {{member.name}}" class="responsive" style="float: right" />
   <h4 class="person-name">{{ member.name }}</h4>
   <i>
     {{ member.info }}
   </i>
-  <br>
-  {% if member.bio %}
-  <b>Bio: </b>{{member.bio }}
-  {% endif %}
+    <i>
+    {{ member.info }}
+  </i>
+  <br/>
   {% if member.webpage %}
   <a href="{{member.webpage}}">
   <img src="{{ site.url }}{{ site.baseurl }}/images/icons/home.png" alt="Home page {{member.name}}" class="icons" />
   </a>
-  {% endif %}
+  {% endif %} 
   {% if member.email %}
   <a href="mailto:{{member.email}}">
   <img src="{{ site.url }}{{ site.baseurl }}/images/icons/email.png" alt="Email {{member.name}}" class="icons" />
@@ -54,9 +54,11 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/icons/linkedin.png" alt="Linkedin {{member.name}}" class="icons" />
   </a>
   {% endif %}
-
-
-</div>
+  <br>
+  {% if member.bio %}
+  <b>Bio: </b>{{member.bio }}
+  {% endif %}
+ </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
 
@@ -77,22 +79,23 @@ permalink: /team/
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" alt="photo {{member.name}}" class="responsive" style="float: left" />
+{% if even_odd == 0 %}
+<div class="col-sm-5 clearfix">
+{% endif %}
+{% if even_odd == 1 %}
+<div class="col-sm-5 clearfix">
+{% endif %}
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" alt="photo {{member.name}}" class="responsive" style="float: right" />
   <h4 class="person-name">{{ member.name }}</h4>
   <i>
     {{ member.info }}
   </i>
-  <br>
-  {% if member.bio %}
-  <b>Bio: </b>{{member.bio }}
-  {% endif %}
+  <br/>
   {% if member.webpage %}
   <a href="{{member.webpage}}">
   <img src="{{ site.url }}{{ site.baseurl }}/images/icons/home.png" alt="Home page {{member.name}}" class="icons" />
   </a>
-  {% endif %}
+  {% endif %} 
   {% if member.email %}
   <a href="mailto:{{member.email}}">
   <img src="{{ site.url }}{{ site.baseurl }}/images/icons/email.png" alt="Email {{member.name}}" class="icons" />
@@ -113,10 +116,11 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/icons/linkedin.png" alt="Linkedin {{member.name}}" class="icons" />
   </a>
   {% endif %}
-
-
+  <br>
+  {% if member.bio %}
+  <b>Bio: </b>{{member.bio }}
+  {% endif %}
 </div>
-
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
@@ -172,8 +176,6 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/icons/linkedin.png" alt="Linkedin {{member.name}}" class="icons" />
   </a>
   {% endif %}
-
-
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -191,7 +193,7 @@ permalink: /team/
 {% endif %}
 
 
-<div >
+<div>
 <br/>
 <h3 class="person-name">Past students</h3>
 <br/>
