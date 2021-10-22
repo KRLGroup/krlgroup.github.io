@@ -21,7 +21,7 @@
 - name: Giulia Ciabatti
   photo: ciabatti.jpg
   info: PhD Student
-  bio: I am a PhD student at Sapienza, University of Rome. My interests include AI and Robotics, Aerospace Systems and Astrophysics. My research is focused on developing techniques for interpretability and performance enhancement of Deep Learning, in particular for Deep Reinforcement Learning, by means of a Physics-Informing approach. I am especially interested in developing my research in the fields of aeronautic and space exploration systems, mobile robotics and autonomous manned and unmanned vehicles. I have a B. Sc. in "Aerospace Engineering" and a M. Sc. Degree in "Artificial Intelligence and Robotics", both earned at Sapienza University.
+  bio: I am a PhD student at Sapienza, University of Rome. My interests include AI and Robotics, Aerospace Systems, and Astrophysics. My research is focused on developing techniques for interpretability and performance enhancement of Deep Learning, in particular for Deep Reinforcement Learning, by means of a Physics-Informing approach. I am especially interested in developing my research in the fields of aeronautic and space exploration systems, mobile robotics, and autonomous manned and unmanned vehicles. I have a B. Sc. in "Aerospace Engineering" and a M. Sc. Degree in "Artificial Intelligence and Robotics", both earned at Sapienza University.
   webpage: 
   github: 
   linkedin: giulia-ciabatti-6797b1194
@@ -31,7 +31,8 @@
 - name: Alessio Ragno
   photo: ragno.jpg
   info: PhD Student
-  bio: I am a Ph.D student in Artificial Intelligence under the supervision of prof. Roberto Capobianco. I am  interestested in the application of AI to different scientific fields and I think that Explainable AI could play an essential role for this purpose. I have a M.Sc. degree in AI & Robotics and a B.Sc. degree in Computer and Control Engineering. I have also some background in the application of AI to drug discovery gained through abroad experience at the University of North Carolina.
+  bio: I am a Ph.D. student in Artificial Intelligence under the supervision of prof. Roberto Capobianco. I am interested in the application of AI to different scientific fields and I think that Explainable AI could play an essential role for this purpose. My Ph.D. project consists in developing model-specific XAI methods, using a topology-based approach, in order to identify and learn data representations able to provide human-interpretable explanations of the neural network predictions.
+I have an M.Sc. degree in AI & Robotics and a B.Sc. degree in Computer and Control Engineering. I have also some background in the application of AI to chemistry and drug discovery gained through abroad experience at the University of North Carolina and collaborations with the Pharmaceutical Chemistry and Technology Department at the Sapienza University of Rome.
   webpage: 
   github: spideralessio
   linkedin: spideralessio
