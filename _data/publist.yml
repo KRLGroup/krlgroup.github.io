@@ -25,7 +25,7 @@
     display:
   bibtex: 
 
-- title: "A Discussion about Explainable Inference on Sequential Data via Memory-Tracking"
+- title: "Explainable Inference on Sequential Data via Memory-Tracking (Discussion Paper)"
   image: memoryexp.png
   authors: Biagio La Rosa, Roberto Capobianco and Daniele Nardi
   year: 2021
