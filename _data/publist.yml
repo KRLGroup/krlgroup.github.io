@@ -1,3 +1,23 @@
+- title: "Molecule Generation from Input-Attributions over Graph Convolutional Networks"
+  authors:  Dylan Savoia, Alessio Ragno, Roberto Capobianco   
+  year: 2021
+  publisher: ELLIS Machine Learning for Molecules workshop (ML4Molecules)
+  link:
+    url:  https://cloud.ml.jku.at/s/28FsiTRKfjEdLMG
+    display:
+  bibtex:
+
+
+- title: "Semi-Supervised GCN for learning Molecular Structure-Activity Relationships"
+  authors: Alessio Ragno, Dylan Savoia, Roberto Capobianco   
+  year: 2021
+  publisher: ELLIS Machine Learning for Molecules workshop (ML4Molecules)
+  link:
+    url: https://cloud.ml.jku.at/s/rwj5fSNNcwsgA3d
+    display:
+  bibtex:
+
+
 - title: "Exploration-Intensive Distractors: Two Environment Proposals and a Benchmarking"
   authors: Jim Martin Catacora Ocaña, Roberto Capobianco and Daniele Nardi   
   year: 2021
