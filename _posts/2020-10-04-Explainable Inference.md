@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Explainable Inference on Sequential Data via Memory-Tracking"
-description: "A test"
+description: "A blog post about the paper about Explainable Inference on Sequential Data via Memory-Tracking"
 comments: true
 display_date: 04 October 2020
 author: Biagio La Rosa
