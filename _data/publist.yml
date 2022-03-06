@@ -5,7 +5,19 @@
   link:
     url:  https://cloud.ml.jku.at/s/28FsiTRKfjEdLMG
     display: Paper
-  bibtex:
+  bibtex: "@Article{Savoia2022,<br>
+  author        = {Dylan Savoia and Alessio Ragno and Roberto Capobianco},<br>
+  journal       = {ELLIS Machine Learning for Molecules workshop (ML4Molecules) 2021},<br>
+  title         = {Molecule Generation from Input-Attributions over Graph Convolutional Networks},<br>
+  year          = {2022},<br>
+  month         = jan,<br>
+  abstract      = {It is well known that Drug Design is often a costly process both in terms of time and economic effort. While good Quantitative Structure-Activity Relationship models (QSAR) can help predicting molecular properties without the need to synthesize them, it is still required to come up with new molecules to be tested. This is mostly done in lack of tools to determine which modifications are more promising or which aspects of a molecule are more influential for the final activity/property. Here we present an automatic process which involves Graph Convolutional Network models and input-attribution methods to generate new molecules. We also explore the problems of over-optimization and applicability, recognizing them as two important aspects in the practical use of such automatic tools.},<br>
+  archiveprefix = {arXiv},<br>
+  eprint        = {2202.05703},<br>
+  file          = {:http\://arxiv.org/pdf/2202.05703v1:PDF},<br>
+  keywords      = {q-bio.BM, cs.AI, cs.LG},<br>
+  primaryclass  = {q-bio.BM},<br>
+}"
 
 
 - title: "Semi-Supervised GCN for learning Molecular Structure-Activity Relationships"
@@ -15,7 +27,19 @@
   link:
     url: https://cloud.ml.jku.at/s/rwj5fSNNcwsgA3d
     display: Paper
-  bibtex:
+  bibtex: "@Article{Ragno2022,<br>
+  author        = {Alessio Ragno and Dylan Savoia and Roberto Capobianco},<br>
+  journal       = {ELLIS Machine Learning for Molecules workshop (ML4Molecules) 2021},<br>
+  title         = {Semi-Supervised GCN for learning Molecular Structure-Activity Relationships},<br>
+  year          = {2022},<br>
+  month         = jan,<br>
+  abstract      = {Since the introduction of artificial intelligence in medicinal chemistry, the necessity has emerged to analyse how molecular property variation is modulated by either single atoms or chemical groups. In this paper, we propose to train graph-to-graph neural network using semi-supervised learning for attributing structure-property relationships. As initial case studies we apply the method to solubility and molecular acidity while checking its consistency in comparison with known experimental chemical data. As final goal, our approach could represent a valuable tool to deal with problems such as activity cliffs, lead optimization and de-novo drug design.},<br>
+  archiveprefix = {arXiv},<br>
+  eprint        = {2202.05704},<br>
+  file          = {:http\://arxiv.org/pdf/2202.05704v1:PDF},<br>
+  keywords      = {q-bio.BM, cs.AI, cs.LG},<br>
+  primaryclass  = {q-bio.BM},<br>
+}"
 
 
 - title: "Exploration-Intensive Distractors: Two Environment Proposals and a Benchmarking"
