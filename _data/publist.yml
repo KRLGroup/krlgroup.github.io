@@ -5,6 +5,7 @@
   link:
     url:  https://link.springer.com/epdf/10.1007/s10489-022-03886-6?sharing_token=IbnCBpQpy2y8PL3Xg10Vvfe4RwlQNchNByi7wbcMAY4Me8Zu3105HXl_XR2RAkkAvNFDIhoith_EY8W71XD2POKCPziEd89auTyF6H1l5Qsy-717BfquEzEKSfda5E8chg_MF9jtfUR0W9iX6ytCPT89G9rOqK1nzU1WNW2jRq0=
     display: Paper
+  code: https://github.com/KRLGroup/memory-wrap
   bibtex: "@Article{LaRosa2022,<br>
   author    = {Biagio La Rosa and Roberto Capobianco and Daniele Nardi},<br>
   journal   = {Applied Intelligence},<br>
@@ -105,6 +106,7 @@ and Palmonari, Matteo and Vizzari, Giuseppe},<br>
   link:
     url: https://link.springer.com/chapter/10.1007/978-3-031-08421-8_38
     display: Paper
+  code: https://github.com/KRLGroup/detacc-compexp
   bibtex: "@InProceedings{Makinwa2021,<br>
 author={Makinwa, Sayo M.
 and La Rosa, Biagio
