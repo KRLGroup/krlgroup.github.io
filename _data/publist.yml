@@ -85,7 +85,18 @@ and Vizzari, Giuseppe},<br>
   link:
     url: https://link.springer.com/chapter/10.1007/978-3-031-08421-8_4
     display: Paper
-  bibtex: 
+  bibtex: "@Gallotta2021,<br>
+  author={Gallotta, Roberto and Capobianco, Roberto}, <br>
+  editor={Bandini, Stefania and Gasparini, Francesca and Mascardi, Viviana
+and Palmonari, Matteo and Vizzari, Giuseppe},<br>
+  title={Tafl-ES: Exploring Evolution Strategies for Asymmetrical Board Games},<br>
+  booktitle={AIxIA 2021 -- Advances in Artificial Intelligence},<br>
+  year={2022},<br>
+  publisher={Springer International Publishing},<br>
+  address={Cham},<br>
+  pages={46--58},
+  isbn={978-3-031-08421-8},<br>
+}"
 
 - title: "Detection Accuracy for Evaluating Compositional Explanations of Units"
   authors: Sayo M. Makinwa, Biagio La Rosa and Roberto Capobianco  
