@@ -1,3 +1,21 @@
+- title: "A self-interpretable module for deep image classification on small data"
+  authors:  Biagio La Rosa, Roberto Capobianco and Daniele Nardi   
+  year: 2022
+  publisher: Applied Intelligence Journal
+  link:
+    url:  https://link.springer.com/epdf/10.1007/s10489-022-03886-6?sharing_token=IbnCBpQpy2y8PL3Xg10Vvfe4RwlQNchNByi7wbcMAY4Me8Zu3105HXl_XR2RAkkAvNFDIhoith_EY8W71XD2POKCPziEd89auTyF6H1l5Qsy-717BfquEzEKSfda5E8chg_MF9jtfUR0W9iX6ytCPT89G9rOqK1nzU1WNW2jRq0=
+    display: Paper
+  bibtex: "@Article{LaRosa2022,<br>
+  author    = {Biagio La Rosa and Roberto Capobianco and Daniele Nardi},<br>
+  journal   = {Applied Intelligence},<br>
+  title     = {A self-interpretable module for deep image classification on small data},<br>
+  year      = {2022},<br>
+  month     = {aug},<br>
+  doi       = {10.1007/s10489-022-03886-6},<br>
+  publisher = {Springer Science and Business Media {LLC}},<br>
+}"
+
+
 - title: "Molecule Generation from Input-Attributions over Graph Convolutional Networks"
   authors:  Dylan Savoia, Alessio Ragno, Roberto Capobianco   
   year: 2021
@@ -14,7 +32,6 @@
   abstract      = {It is well known that Drug Design is often a costly process both in terms of time and economic effort. While good Quantitative Structure-Activity Relationship models (QSAR) can help predicting molecular properties without the need to synthesize them, it is still required to come up with new molecules to be tested. This is mostly done in lack of tools to determine which modifications are more promising or which aspects of a molecule are more influential for the final activity/property. Here we present an automatic process which involves Graph Convolutional Network models and input-attribution methods to generate new molecules. We also explore the problems of over-optimization and applicability, recognizing them as two important aspects in the practical use of such automatic tools.},<br>
   archiveprefix = {arXiv},<br>
   eprint        = {2202.05703},<br>
-  file          = {:http\://arxiv.org/pdf/2202.05703v1:PDF},<br>
   keywords      = {q-bio.BM, cs.AI, cs.LG},<br>
   primaryclass  = {q-bio.BM},<br>
 }"
@@ -36,7 +53,6 @@
   abstract      = {Since the introduction of artificial intelligence in medicinal chemistry, the necessity has emerged to analyse how molecular property variation is modulated by either single atoms or chemical groups. In this paper, we propose to train graph-to-graph neural network using semi-supervised learning for attributing structure-property relationships. As initial case studies we apply the method to solubility and molecular acidity while checking its consistency in comparison with known experimental chemical data. As final goal, our approach could represent a valuable tool to deal with problems such as activity cliffs, lead optimization and de-novo drug design.},<br>
   archiveprefix = {arXiv},<br>
   eprint        = {2202.05704},<br>
-  file          = {:http\://arxiv.org/pdf/2202.05704v1:PDF},<br>
   keywords      = {q-bio.BM, cs.AI, cs.LG},<br>
   primaryclass  = {q-bio.BM},<br>
 }"
