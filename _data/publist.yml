@@ -85,7 +85,7 @@ and Vizzari, Giuseppe},<br>
   link:
     url: https://link.springer.com/chapter/10.1007/978-3-031-08421-8_4
     display: Paper
-  bibtex: "@Gallotta2021,<br>
+  bibtex: "@InProceedings{Gallotta2021,<br>
   author={Gallotta, Roberto and Capobianco, Roberto}, <br>
   editor={Bandini, Stefania and Gasparini, Francesca and Mascardi, Viviana
 and Palmonari, Matteo and Vizzari, Giuseppe},<br>
@@ -103,9 +103,25 @@ and Palmonari, Matteo and Vizzari, Giuseppe},<br>
   year: 2021
   publisher: The 20th International Conference of the Italian Association for Artificial Intelligence (AIxIA 2021)
   link:
-    url: 
+    url: https://link.springer.com/chapter/10.1007/978-3-031-08421-8_38
     display: Paper
-  bibtex: 
+  bibtex: "@InProceedings{Makinwa2021,<br>
+author={Makinwa, Sayo M.
+and La Rosa, Biagio
+and Capobianco, Roberto},<br>
+editor={Bandini, Stefania
+and Gasparini, Francesca
+and Mascardi, Viviana
+and Palmonari, Matteo
+and Vizzari, Giuseppe},<br>
+title={Detection Accuracy for Evaluating Compositional Explanations of Units},<br>
+booktitle={AIxIA 2021 -- Advances in Artificial Intelligence},<br>
+year={2022},<br>
+publisher={Springer International Publishing},<br>
+address={Cham},<br>
+pages={550--563},<br>
+isbn={978-3-031-08421-8},<br>
+}"
 
 - title: "A Discussion about Explainable Inference on Sequential Data via Memory-Tracking"
   image: memoryexp.png
