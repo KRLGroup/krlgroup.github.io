@@ -65,18 +65,17 @@
   link:
     url: https://link.springer.com/chapter/10.1007/978-3-031-08421-8_29
     display: Paper
-  bibtex: "@InProceedings{10.1007/978-3-031-08421-8_29,
-  author={Ocana, Jim Martin Catacora and Capobianco, Roberto and Nardi, Daniele},
+  bibtex: "@InProceedings{Ocana2021,<br>
+  author={Ocana, Jim Martin Catacora and Capobianco, Roberto and Nardi, Daniele},<br>
   editor={Bandini, Stefania and Gasparini, Francesca and Mascardi, Viviana and Palmonari, Matteo
-and Vizzari, Giuseppe},
-  title={Exploration-Intensive Distractors: Two Environment Proposals and a Benchmarking},
-  booktitle={AIxIA 2021 -- Advances in Artificial Intelligence},
-  year={2022},
-  publisher={Springer International Publishing},
-  address={Cham},
-  pages={413--428},
-  abstract={Sparse-reward environments are famously challenging for deep reinforcement learning (DRL) algorithms. Yet, the prospect of solving tasks with intrinsically sparse rewards in an end-to-end fashion and without any extra reward engineering is highly appealing. Such aspiration has recently led to the development of numerous DRL algorithms able to handle reward sparsity to some extent. Some methods have even gone one step further and have tackled sparse-reward tasks involving different kinds of distractors (e.g., a broken TV, a self-moving phantom object and many more). In this work, we put forward two motivating new sparse-reward environments containing the so-far largely overlooked class of exploration-intensive distractors. Furthermore, we conduct a benchmarking that reveals that state-of-the-art algorithms are not yet all-around suitable for solving our proposed environments.},
-  isbn={978-3-031-08421-8},
+and Vizzari, Giuseppe},<br>
+  title={Exploration-Intensive Distractors: Two Environment Proposals and a Benchmarking},<br>
+  booktitle={AIxIA 2021 -- Advances in Artificial Intelligence},<br>
+  year={2022},<br>
+  publisher={Springer International Publishing},<br>
+  address={Cham},<br>
+  pages={413--428},<br>
+  isbn={978-3-031-08421-8},<br>
 }"
 
 - title: "Tafl-ES: Exploring Evolution Strategies for Asymmetrical Board Games"
@@ -84,7 +83,7 @@ and Vizzari, Giuseppe},
   year: 2021
   publisher: The 20th International Conference of the Italian Association for Artificial Intelligence (AIxIA 2021)
   link:
-    url: 
+    url: https://link.springer.com/chapter/10.1007/978-3-031-08421-8_4
     display: Paper
   bibtex: 
 
