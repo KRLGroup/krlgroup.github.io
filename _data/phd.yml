@@ -48,5 +48,15 @@
   twitter: 
   email:
 
+- name: Andrea Fanti
+  photo: fanti.jpg
+  info: PhD Student
+  bio: I'm a PhD student in Engineering in Computer Science at Sapienza University of Rome. Currently, my research focuses on emergent behaviours in multi-agent Reinforcement Learning environments and other Reinforcement Learning exploration techniques. More broadly, I am interested in how to continually generate complexity and novelty in Artificial Intelligence, and as such I am also interested in Novelty Search and various forms of Evolutionary Computation. My background includes a master's degree in Artificial Intelligence and Robotics and a bachelor's degree in Engineering in Computer Science obtained at Sapienza University of Rome.
+  webpage: 
+  github: rikifun-t
+  linkedin: 
+  twitter: 
+  email: fanti@diag.uniroma1.it
+
 
 
