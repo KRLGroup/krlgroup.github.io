@@ -1,3 +1,21 @@
+- title: "Grounding LTLf Specifications in Images"
+  authors:  Elena Umili, Roberto Capobianco and Giuseppe De Giacomo  
+  year: 2022
+  publisher: Workshop on Neural-Symbolic Learning and Reasoning
+  link:
+    url:  https://ceur-ws.org/Vol-3212/paper4.pdf
+    display: Paper
+  code: https://github.com/whitemech/grounding_LTLf_in_image_sequences
+  bibtex: "@inproceedings{umili2022,<br>
+    author = {Elena Umili and
+              Roberto Capobianco and
+              Giuseppe {De Giacomo}},<br>
+    title = {Grounding LTLf Specifications in Images},<br>
+    booktitle = {16th International Workshop on Neural-Symbolic Learning and Reasoning},<br>
+    year = {2022},
+}"
+
+
 - title: "A self-interpretable module for deep image classification on small data"
   authors:  Biagio La Rosa, Roberto Capobianco and Daniele Nardi   
   year: 2022
@@ -16,6 +34,24 @@
   publisher = {Springer Science and Business Media {LLC}},<br>
 }"
 
+- title: "Learning a Symbolic Planning Domain through the Interaction with Continuous Environments"
+  authors:  Elena Umili, Emanuele Antonioni, Francesco Riccio, Roberto Capobianco, Daniele Nardi and Giuseppe De Giacomo
+  year: 2021
+  publisher: Workshop on Bridging the Gap Between AI Planning and Reinforcement Learning ({PRL})
+  link:
+    url:   https://prl-theworkshop.github.io/prl2021/papers/PRL2021_paper_39.pdf
+    display: Paper
+  bibtex: "@inproceedings{umili2021,<br>
+    author = {Elena Umili and
+              Emanuele Antonioni and
+              Francesco Riccio and<br>
+              Roberto Capobianco and
+              Daniele Nardi and
+              Giuseppe {De Giacomo}},<br>
+    title = {Learning a Symbolic Planning Domain through the Interaction with Continuous Environments},<br>
+    booktitle = {Workshop on Bridging the Gap Between AI Planning and Reinforcement Learning ({PRL})},<br>
+    year = {2021},<br>
+}"
 
 - title: "Molecule Generation from Input-Attributions over Graph Convolutional Networks"
   authors:  Dylan Savoia, Alessio Ragno, Roberto Capobianco   
