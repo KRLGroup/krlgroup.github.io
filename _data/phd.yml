@@ -38,4 +38,15 @@
   twitter: 
   email:
 
+- name: Michela Proietti
+  photo: proietti.jpg
+  info: PhD Student
+  bio: I am a Ph.D. student in Artificial Intelligence at Sapienza University of Rome. I previously obtained a B.Sc. in Computer and Control Engineering and a M.Sc. in Artificial Intelligence and Robotics both from Sapienza University. I am interested in explainable AI, representation learning, reinforcement learning and their close link with neuroscience. Starting from findings from the neuroscientific domain, my research is focused on the use of XAI methods to study how memorization of the input is influenced by its representation in order to address the problem of catastrophic forgetting in continual learning.
+  webpage: 
+  github: 
+  linkedin: 
+  twitter: 
+  email:
+
+
 
