@@ -1,3 +1,23 @@
+
+- title: "Prototype-based Interpretable Graph Neural Networks"
+  authors:  Alessio Ragno, Biagio La Rosa, and Roberto Capobianco 
+  year: 2022
+  publisher: IEEE Transactions on Artificial Intelligence Journal
+  link:
+    url:  https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9953541
+    display: Paper
+  code: https://github.com/KRLGroup/PrototypeGNN
+  bibtex: "@Article{Ragno2022,
+  author={Ragno, Alessio and La Rosa, Biagio and Capobianco, Roberto},
+  journal={IEEE Transactions on Artificial Intelligence}, 
+  title={Prototype-based Interpretable Graph Neural Networks}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-11},
+  doi={10.1109/TAI.2022.3222618}
+}"
+
 - title: "Grounding LTLf Specifications in Images"
   authors:  Elena Umili, Roberto Capobianco and Giuseppe De Giacomo  
   year: 2022
