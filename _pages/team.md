@@ -26,9 +26,6 @@ permalink: /team/
   <i>
     {{ member.info }}
   </i>
-    <i>
-    {{ member.info }}
-  </i>
   <br/>
   {% if member.webpage %}
   <a href="{{member.webpage}}">
