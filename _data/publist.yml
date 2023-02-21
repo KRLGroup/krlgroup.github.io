@@ -1,4 +1,65 @@
 
+- title: "Planetary Environment Prediction Using Generative Modeling"
+  authors:  Shrijit Singh, Shreyansh Daftry and Roberto Capobianco
+  year: 2022
+  publisher: AIAA SCITECH 2022 Forum 
+  link:
+    url:  https://arc.aiaa.org/doi/abs/10.2514/6.2022-2085
+    display: Paper
+  code: 
+  bibtex: "@InProceedings{Singh2022,<br>
+  author    = {Shrijit Singh and Shreyansh Daftry and Roberto Capobianco},<br>
+  booktitle = {{AIAA} {SCITECH} 2022 Forum},<br>
+  title     = {Planetary Environment Prediction Using Generative Modeling},<br>
+  year      = {2022},<br>
+  month     = {jan},<br>
+  publisher = {American Institute of Aeronautics and Astronautics},<br>
+  doi       = {10.2514/6.2022-2085},<br>
+}
+"
+- title: "Outracing champion Gran Turismo drivers with deep reinforcement learning"
+  authors:  Peter R Wurman, Samuel Barrett, Kenta Kawamoto, James MacGlashan, Kaushik Subramanian, Thomas J Walsh, Roberto Capobianco, Alisa Devlic, Franziska Eckert, Florian Fuchs, Leilani Gilpin, Piyush Khandelwal, Varun Kompella, HaoChih Lin, Patrick MacAlpine, Declan Oller, Takuma Seno, Craig Sherstan, Michael D Thomure, Houmehr Aghabozorgi, Leon Barrett, Rory Douglas, Dion Whitehead, Peter Dürr, Peter Stone, Michael Spranger, and Hiroaki Kitano
+  year: 2022
+  publisher: Nature 
+  link:
+    url:  https://www.nature.com/articles/s41586-021-04357-7
+    display: Paper
+  code: 
+  bibtex: "@Article{Wurman2022,<br>
+  author    = {Peter R. Wurman and Samuel Barrett and Kenta Kawamoto and James MacGlashan and Kaushik Subramanian and Thomas J. Walsh and Roberto Capobianco and Alisa Devlic and Franziska Eckert and Florian Fuchs and Leilani Gilpin and Piyush Khandelwal and Varun Kompella and HaoChih Lin and Patrick MacAlpine and Declan Oller and Takuma Seno and Craig Sherstan and Michael D. Thomure and Houmehr Aghabozorgi and Leon Barrett and Rory Douglas and Dion Whitehead and Peter Dürr and Peter Stone and Michael Spranger and Hiroaki Kitano},<br>
+  journal   = {Nature},<br>
+  title     = {Outracing champion Gran Turismo drivers with deep reinforcement learning},<br>
+  year      = {2022},<br>
+  month     = {feb},<br>
+  number    = {7896},<br>
+  pages     = {223--228},<br>
+  volume    = {602},<br>
+  doi       = {10.1038/s41586-021-04357-7},<br>
+  publisher = {Springer Science and Business Media {LLC}},
+}
+"
+
+- title: "Ligand-based and structure-based studies to develop predictive models for SARS-CoV-2 main protease inhibitors through the 3d-qsar. com portal"
+  authors:  Eleonora Proia, Alessio Ragno, Lorenzo Antonini, Manuela Sabatino, Milan Mladenovič, Roberto Capobianco, and Rino Ragno
+  year: 2022
+  publisher: Journal of Computer-Aided Molecular Design 
+  link:
+    url:  https://link.springer.com/article/10.1007/s10822-022-00460-7
+    display: Paper
+  code: 
+  bibtex: "@Article{Proia2022,<br>
+  author    = {Eleonora Proia and Alessio Ragno and Lorenzo Antonini and Manuela Sabatino and Milan Mladenovi{\v{c}} and Roberto Capobianco and Rino Ragno},<br>
+  journal   = {Journal of Computer-Aided Molecular Design},<br>
+  title     = {Ligand-based and structure-based studies to develop predictive models for {SARS}-{CoV}-2 main protease inhibitors through the 3d-qsar.com portal},<br>
+  year      = {2022},<br>
+  month     = {jun},<br>
+  number    = {7},<br>
+  pages     = {483--505},<br>
+  volume    = {36},<br>
+  doi       = {10.1007/s10822-022-00460-7},<br>
+  publisher = {Springer Science and Business Media {LLC}},
+}"
+
 - title: "Prototype-based Interpretable Graph Neural Networks"
   authors:  Alessio Ragno, Biagio La Rosa, and Roberto Capobianco 
   year: 2022
@@ -54,28 +115,9 @@
   publisher = {Springer Science and Business Media {LLC}},<br>
 }"
 
-- title: "Learning a Symbolic Planning Domain through the Interaction with Continuous Environments"
-  authors:  Elena Umili, Emanuele Antonioni, Francesco Riccio, Roberto Capobianco, Daniele Nardi and Giuseppe De Giacomo
-  year: 2021
-  publisher: Workshop on Bridging the Gap Between AI Planning and Reinforcement Learning ({PRL})
-  link:
-    url:   https://prl-theworkshop.github.io/prl2021/papers/PRL2021_paper_39.pdf
-    display: Paper
-  bibtex: "@inproceedings{umili2021,<br>
-    author = {Elena Umili and
-              Emanuele Antonioni and
-              Francesco Riccio and<br>
-              Roberto Capobianco and
-              Daniele Nardi and
-              Giuseppe {De Giacomo}},<br>
-    title = {Learning a Symbolic Planning Domain through the Interaction with Continuous Environments},<br>
-    booktitle = {Workshop on Bridging the Gap Between AI Planning and Reinforcement Learning ({PRL})},<br>
-    year = {2021},<br>
-}"
-
 - title: "Molecule Generation from Input-Attributions over Graph Convolutional Networks"
   authors:  Dylan Savoia, Alessio Ragno, Roberto Capobianco   
-  year: 2021
+  year: 2022
   publisher: ELLIS Machine Learning for Molecules workshop (ML4Molecules)
   link:
     url:  https://cloud.ml.jku.at/s/28FsiTRKfjEdLMG
@@ -96,7 +138,7 @@
 
 - title: "Semi-Supervised GCN for learning Molecular Structure-Activity Relationships"
   authors: Alessio Ragno, Dylan Savoia, Roberto Capobianco   
-  year: 2021
+  year: 2022
   publisher: ELLIS Machine Learning for Molecules workshop (ML4Molecules)
   link:
     url: https://cloud.ml.jku.at/s/rwj5fSNNcwsgA3d
@@ -117,12 +159,12 @@
 
 - title: "Exploration-Intensive Distractors: Two Environment Proposals and a Benchmarking"
   authors: Jim Martin Catacora Ocaña, Roberto Capobianco and Daniele Nardi   
-  year: 2021
+  year: 2022
   publisher: The 20th International Conference of the Italian Association for Artificial Intelligence (AIxIA 2021)
   link:
     url: https://link.springer.com/chapter/10.1007/978-3-031-08421-8_29
     display: Paper
-  bibtex: "@InProceedings{Ocana2021,<br>
+  bibtex: "@InProceedings{Ocana2022,<br>
   author={Ocana, Jim Martin Catacora and Capobianco, Roberto and Nardi, Daniele},<br>
   editor={Bandini, Stefania and Gasparini, Francesca and Mascardi, Viviana and Palmonari, Matteo
 and Vizzari, Giuseppe},<br>
@@ -137,12 +179,12 @@ and Vizzari, Giuseppe},<br>
 
 - title: "Tafl-ES: Exploring Evolution Strategies for Asymmetrical Board Games"
   authors: Roberto Gallotta and Roberto Capobianco  
-  year: 2021
+  year: 2022
   publisher: The 20th International Conference of the Italian Association for Artificial Intelligence (AIxIA 2021)
   link:
     url: https://link.springer.com/chapter/10.1007/978-3-031-08421-8_4
     display: Paper
-  bibtex: "@InProceedings{Gallotta2021,<br>
+  bibtex: "@InProceedings{Gallotta2022,<br>
   author={Gallotta, Roberto and Capobianco, Roberto}, <br>
   editor={Bandini, Stefania and Gasparini, Francesca and Mascardi, Viviana
 and Palmonari, Matteo and Vizzari, Giuseppe},<br>
@@ -157,13 +199,13 @@ and Palmonari, Matteo and Vizzari, Giuseppe},<br>
 
 - title: "Detection Accuracy for Evaluating Compositional Explanations of Units"
   authors: Sayo M. Makinwa, Biagio La Rosa and Roberto Capobianco  
-  year: 2021
+  year: 2022
   publisher: The 20th International Conference of the Italian Association for Artificial Intelligence (AIxIA 2021)
   link:
     url: https://link.springer.com/chapter/10.1007/978-3-031-08421-8_38
     display: Paper
   code: https://github.com/KRLGroup/detacc-compexp
-  bibtex: "@InProceedings{Makinwa2021,<br>
+  bibtex: "@InProceedings{Makinwa2022,<br>
 author={Makinwa, Sayo M.
 and La Rosa, Biagio
 and Capobianco, Roberto},<br>
@@ -179,6 +221,25 @@ publisher={Springer International Publishing},<br>
 address={Cham},<br>
 pages={550--563},<br>
 isbn={978-3-031-08421-8},<br>
+}"
+
+- title: "Learning a Symbolic Planning Domain through the Interaction with Continuous Environments"
+  authors:  Elena Umili, Emanuele Antonioni, Francesco Riccio, Roberto Capobianco, Daniele Nardi and Giuseppe De Giacomo
+  year: 2021
+  publisher: Workshop on Bridging the Gap Between AI Planning and Reinforcement Learning ({PRL})
+  link:
+    url:   https://prl-theworkshop.github.io/prl2021/papers/PRL2021_paper_39.pdf
+    display: Paper
+  bibtex: "@inproceedings{umili2021,<br>
+    author = {Elena Umili and
+              Emanuele Antonioni and
+              Francesco Riccio and<br>
+              Roberto Capobianco and
+              Daniele Nardi and
+              Giuseppe {De Giacomo}},<br>
+    title = {Learning a Symbolic Planning Domain through the Interaction with Continuous Environments},<br>
+    booktitle = {Workshop on Bridging the Gap Between AI Planning and Reinforcement Learning ({PRL})},<br>
+    year = {2021},<br>
 }"
 
 - title: "A Discussion about Explainable Inference on Sequential Data via Memory-Tracking"
