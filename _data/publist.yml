@@ -1,4 +1,23 @@
-
+- title: "An Overview of Environmental Features that Impact Deep Reinforcement Learning in Sparse-Reward Domains"
+  authors:  Jim Martin Catacora Ocana, Roberto Capobianco, and Daniele Nardi
+  year: 2023
+  publisher: Journal of Artificial Intelligence Research (JAIR)
+  link:
+    url:  https://jair.org/index.php/jair/article/view/14390/26919
+    display: Paper
+  code: 
+  bibtex: "@Article{Ocana2023,<br>
+  author    = {Jim Martin Catacora Ocana and Roberto Capobianco and Daniele Nardi},<br>
+  journal   = {Journal of Artificial Intelligence Research},<br>
+  title     = {An Overview of Environmental Features that Impact Deep Reinforcement Learning in Sparse-Reward Domains},<br>
+  year      = {2023},<br>
+  month     = {apr},<br>
+  pages     = {1181--1218},<br>
+  volume    = {76},<br>
+  doi       = {10.1613/jair.1.14390},<br>
+  publisher = {{AI} Access Foundation},<br>
+}
+"
 - title: "Planetary Environment Prediction Using Generative Modeling"
   authors:  Shrijit Singh, Shreyansh Daftry and Roberto Capobianco
   year: 2022
