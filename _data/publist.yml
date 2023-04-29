@@ -1,3 +1,21 @@
+- title: "Visual Reward Machines"
+  authors:  Elena Umili, Francesco Argenziano, Aymeric Barbin and Roberto Capobianco
+  year: 2023
+  publisher: 17th International Workshop on Neural-Symbolic Learning and Reasoning
+  link:
+    url:  https://www.researchgate.net/profile/Elena-Umili-2/publication/370106343_Visual_Reward_Machines/links/643fb76e2eca706c8b6c112d/Visual-Reward-Machines.pdf
+    display: Paper
+  code: https://github.com/whitemech/VisualRewardMachine
+  bibtex: "@Article{Umili2023,<br>
+  author = {Umili, Elena and Argenziano, Francesco and Barbin, Aymeric and Capobianco, Roberto},<br>
+year = {2023},<br>
+month = {04},<br>
+pages = {},<br>
+title = {Visual Reward Machines},<br>
+doi = {10.13140/RG.2.2.17900.23680}<br>
+}
+"
+
 - title: "An Overview of Environmental Features that Impact Deep Reinforcement Learning in Sparse-Reward Domains"
   authors:  Jim Martin Catacora Ocana, Roberto Capobianco, and Daniele Nardi
   year: 2023
@@ -18,6 +36,7 @@
   publisher = {{AI} Access Foundation},<br>
 }
 "
+
 - title: "Planetary Environment Prediction Using Generative Modeling"
   authors:  Shrijit Singh, Shreyansh Daftry and Roberto Capobianco
   year: 2022
