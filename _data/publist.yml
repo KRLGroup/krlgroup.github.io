@@ -67,6 +67,23 @@ doi = {10.13140/RG.2.2.17900.23680}<br>
 }
 "
 
+- title: "A MOON OPTICAL NAVIGATION ROBOTIC FACILITY ON SIMULATED TERRAIN: MONSTER"
+  authors:  Francesco Latorre, Andrea Carbone, Sarathchandrakumar Thottuchirayil Sasidharan, Giulia Ciabatti,Dario Spiller, Fabio Curti, and RobertoCapobianco 
+  year: 2022
+  publisher: 2022 AAS/AIAA Astrodynamics Specialist Conference 
+  link:
+    url:  https://www.researchgate.net/publication/363263356_A_MOON_OPTICAL_NAVIGATION_ROBOTIC_FACILITY_ON_SIMULATED_TERRAIN_MONSTER
+    display: Paper
+  code: 
+  bibtex: "@inproceedings{Latorre2022,
+author = {Latorre, Francesco and Carbone, Andrea and Thottuchirayil Sasidharan, Sarathchandrakumar and Ciabatti, Giulia and Spiller, Dario and Curti, Fabio and Capobianco, Roberto},
+year = {2022},
+month = {09},
+pages = {},
+title = {A MOON OPTICAL NAVIGATION ROBOTIC FACILITY ON SIMULATED TERRAIN: MONSTER}
+}
+"
+
 - title: "Planetary Environment Prediction Using Generative Modeling"
   authors:  Shrijit Singh, Shreyansh Daftry and Roberto Capobianco
   year: 2022
