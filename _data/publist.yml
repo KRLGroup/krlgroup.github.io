@@ -33,16 +33,25 @@ isbn={978-3-031-25755-1}
   year: 2023
   publisher: 17th International Workshop on Neural-Symbolic Learning and Reasoning
   link:
-    url:  https://www.researchgate.net/profile/Elena-Umili-2/publication/370106343_Visual_Reward_Machines/links/643fb76e2eca706c8b6c112d/Visual-Reward-Machines.pdf
+    url:  https://ceur-ws.org/Vol-3432/paper23.pdf
     display: Paper
   code: https://github.com/whitemech/VisualRewardMachine
-  bibtex: "@Article{Umili2023,<br>
-  author = {Umili, Elena and Argenziano, Francesco and Barbin, Aymeric and Capobianco, Roberto},<br>
-year = {2023},<br>
-month = {04},<br>
-pages = {},<br>
-title = {Visual Reward Machines},<br>
-doi = {10.13140/RG.2.2.17900.23680}<br>
+  bibtex: "@inproceedings{DBLP:conf/nesy/UmiliABC23,<br>
+  author       = {Elena Umili and
+                  Francesco Argenziano and
+                  Aymeric Barbin and
+                  Roberto Capobianco},<br>
+  title        = {Visual Reward Machines},<br>
+  booktitle    = {Proceedings of the 17th International Workshop on Neural-Symbolic
+                  Learning and Reasoning, La Certosa di Pontignano, Siena, Italy, July
+                  3-5, 2023},<br>
+  pages        = {255--267},<br>
+  year         = {2023},<br>
+  crossref     = {DBLP:conf/nesy/2023},<br>
+  url          = {https://ceur-ws.org/Vol-3432/paper23.pdf},<br>
+  timestamp    = {Tue, 11 Jul 2023 17:14:10 +0200},<br>
+  biburl       = {https://dblp.org/rec/conf/nesy/UmiliABC23.bib},<br>
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 "
 
