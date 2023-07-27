@@ -1,3 +1,21 @@
+- title: "Grounding LTLf Specifications in Image Sequences"
+  authors:  Elena Umili, Roberto Capobianco and Giuseppe De Giacomo
+  year: 2023
+  publisher: 20th International Conference on Principles of Knowledge Representation and Reasoning (KR 2023)
+  link:
+    url:  
+    display: Paper
+  code: 
+
+- title: "Neurosymbolic Integration of Linear Temporal Logic in Non Symbolic Domains"
+  authors:  Elena Umili
+  year: 2023
+  publisher: 20th European Conference of Multi-Agents Systems (EUMAS 2023)
+  link:
+    url:  
+    display: Paper
+  code: 
+
 - title: "Deep Reinforcement Learning for Pin-Point Autonomous Lunar Landing: Trajectory Recalculation for Obstacle Avoidance"
   authors:  Giulia Ciabatti, Dario Spiller, Shreyansh Daftry, Roberto Capobianco, and Fabio Curti
   year: 2023
