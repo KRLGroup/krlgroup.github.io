@@ -3,18 +3,39 @@
   year: 2023
   publisher: 20th International Conference on Principles of Knowledge Representation and Reasoning (KR 2023)
   link:
-    url:  
+    url:   https://proceedings.kr.org/2023/65/
     display: Paper
-  code: 
+  code: https://github.com/whitemech/grounding_LTLf_in_image_sequences
+  bibtex: "@inproceedings{Umili2023Grounding,<br>
+    title     = {{Grounding LTLf Specifications in Image Sequences}},<br>
+    author    = {Umili, Elena and Capobianco, Roberto and De Giacomo, Giuseppe},<br>
+    booktitle = {{Proceedings of the 20th International Conference on Principles of Knowledge Representation and Reasoning}},<br>
+    pages     = {668--678},<br>
+    year      = {2023},<br>
+    month     = {8},<br>
+    doi       = {10.24963/kr.2023/65},<br>
+    url       = {https://doi.org/10.24963/kr.2023/65},<br>
+  }"
 
 - title: "Neurosymbolic Integration of Linear Temporal Logic in Non Symbolic Domains"
   authors:  Elena Umili
   year: 2023
   publisher: 20th European Conference of Multi-Agents Systems (EUMAS 2023)
   link:
-    url:  
+    url:  https://link.springer.com/chapter/10.1007/978-3-031-43264-4_41
     display: Paper
   code: 
+  bibtex: "@InProceedings{Umili2023Neurosymbolic,<br>
+    author={Umili, Elena},<br>
+    editor={Malvone, Vadim and Murano, Aniello},<br>
+    title={Neurosymbolic Integration of Linear Temporal Logic in Non Symbolic Domains},<br>
+    booktitle={Multi-Agent Systems},<br>
+    year={2023},<br>
+    publisher={Springer Nature Switzerland},<br>
+    address={Cham},<br>
+    pages={521--527},<br>
+    isbn={978-3-031-43264-4}
+}"
 
 - title: "Deep Reinforcement Learning for Pin-Point Autonomous Lunar Landing: Trajectory Recalculation for Obstacle Avoidance"
   authors:  Giulia Ciabatti, Dario Spiller, Shreyansh Daftry, Roberto Capobianco, and Fabio Curti
