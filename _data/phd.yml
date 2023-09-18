@@ -1,13 +1,3 @@
-- name: Biagio La Rosa
-  photo: larosa.jpg
-  info: PhD Student
-  bio: I am a continuous learner looking for new concepts from different fields and domains — e.g. AI, psychology, astronomy and neuroscience. My research is focused on improving the interpretability of Deep Learning techniques, such as Recurrent Networks or Memory Augmented Neural Networks. I am deeply interested on the connection between memory, learning process and interpretability from both computational and cognitive perspectives. I have a background in computer science and Artificial Intelligence, having a M. Sc. degree in "Artificial Intelligence and Robotics" and a B. Sc. in "Computer Science", both from the Sapienza University.
-  webpage: https://biagiomattialarosa.github.io/
-  github: biagiomattialarosa
-  linkedin: larosabiagio
-  twitter: larosabiagio
-  email: larosa@diag.uniroma1.it
-
 - name: Elena Umili
   photo: umili.jpg
   info: PostDoc Student
@@ -17,6 +7,16 @@
   linkedin: elena-umili-b65a89183
   twitter: 
   email: umili@diag.uniroma1.it
+
+- name: Biagio La Rosa
+  photo: larosa.jpg
+  info: PhD Student
+  bio: I am a continuous learner looking for new concepts from different fields and domains — e.g. AI, psychology, astronomy and neuroscience. My research is focused on improving the interpretability of Deep Learning techniques, such as Recurrent Networks or Memory Augmented Neural Networks. I am deeply interested on the connection between memory, learning process and interpretability from both computational and cognitive perspectives. I have a background in computer science and Artificial Intelligence, having a M. Sc. degree in "Artificial Intelligence and Robotics" and a B. Sc. in "Computer Science", both from the Sapienza University.
+  webpage: https://biagiomattialarosa.github.io/
+  github: biagiomattialarosa
+  linkedin: larosabiagio
+  twitter: larosabiagio
+  email: larosa@diag.uniroma1.it
 
 - name: Giulia Ciabatti
   photo: ciabatti.jpg
