@@ -66,6 +66,7 @@
     display: Paper
   code: https://github.com/KRLGroup/GraphCWN
   highlight: 1
+  description: TO DO
   bibtex: "@Article{Proietti2023,<br>
   author    = {Michela Proietti and Alessio Ragno and Biagio La Rosa and Rino Ragno and Roberto Capobianco},<br>
   journal   = {Machine Learning},<br>
@@ -605,8 +606,6 @@ series = {AAMAS '20}
 }"
 
 - title: "Explainable Inference on Sequential Data via Memory-Tracking"
-  image: memoryexp.png
-  description: We propose an approach to build explanations for sequential tasks exploiting the memory reading and writing operations of Memory Augumented Neural Networks.
   authors: Biagio La Rosa, Roberto Capobianco and Daniele Nardi
   year: 2020
   publisher: Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence (IJCAI-20)
@@ -614,7 +613,6 @@ series = {AAMAS '20}
     url: https://www.ijcai.org/Proceedings/2020/0278.pdf
     display:  Paper
   code: https://github.com/KRLGroup/explainable-inference-on-sequential-data-via-memory-tracking
-  highlight: 1
   news2:
   blog: "explainable_inference"
   bibtex: "@inproceedings{LaRosa20,<br>
