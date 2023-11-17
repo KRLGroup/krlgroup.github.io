@@ -1,3 +1,81 @@
+- title: "Oxidative DNA damage preventive activity of essential oils of three Pinus species: P. mugo, P. sibirica, and P. silvestre"
+  authors:  Sanja Matić, Tamara Mladenović, Milan Mladenović, Nevena Tomašević, Roberto Capobianco, Alessio Ragno, F Sapienza, Roberta Astolfi, Rino Ragno
+  year: 2023
+  publisher: 2nd International Conference on Chemo and Bioinformatics
+  link:
+    url:   https://scidar.kg.ac.rs/bitstream/123456789/19169/1/2nd-ICCBIKG-Prooceedings%2c%20Pinus%20species.pdf
+    display: Paper
+  code: 
+  bibtex: "@InProceedings{Matic2023,<br>
+  author     = {Matić, Sanja Lj. and Mladenović, Tamara M. and Mladenović, Milan P. and Tomašević, Nevena M. and Capobianco, Roberto and Ragno, Alessio and Sapienza, Filippo U. and Astolfi, Roberta and Ragno, Rino},<br>
+  booktitle  = {Book of Proceedings},<br>
+  title      = {Oxidative DNA damage preventive activity of essential oils of three Pinus species: P. mugo, P. sibirica, and P. silvestre},<br>
+  year       = {2023},<br>
+  publisher  = {Institute for Information Technologies, University of Kragujevac},<br>
+  series     = {ICCBIKG 2023},<br>
+  collection = {ICCBIKG 2023},<br>
+  doi        = {10.46793/iccbi23.321m},<br>
+}"
+
+- title: "Memory Replay For Continual Learning With Spiking Neural Networks"
+  authors:  Michela Proietti, Alessio Ragno, and Roberto Capobianco
+  year: 2023
+  publisher: 33rd International Workshop on Machine Learning for Signal Processing (MLSP)
+  link:
+    url:   https://ieeexplore.ieee.org/abstract/document/10285911
+    display: Paper
+  code: 
+  bibtex: "@InProceedings{Proietti2023,<br>
+  author    = {Proietti, Michela and Ragno, Alessio and Capobianco, Roberto},<br>
+  booktitle = {2023 IEEE 33rd International Workshop on Machine Learning for Signal Processing (MLSP)},<br>
+  title     = {Memory Replay For Continual Learning With Spiking Neural Networks},<br>
+  year      = {2023},<br>
+  month     = sep,<br>
+  publisher = {IEEE},<br>
+  doi       = {10.1109/mlsp55844.2023.10285911},<br>
+}"
+
+- title: "The State of The Art of Visual Analytics for eXplainable Deep Learning"
+  authors:  Biagio La Rosa, Graziano Blasilli, Romain Bourqui, David Auber, Giuseppe Santucci, Roberto Capobianco, Enrico Bertini, Romain Giot, and Marco Angelini
+  year: 2023
+  publisher: Computer Graphic Forum Journal
+  link:
+    url:   https://onlinelibrary.wiley.com/doi/10.1111/cgf.14733
+    display: Paper
+  code: 
+  bibtex: "@Article{LaRosa2023,<br>
+  author    = {{La Rosa}, B. and Blasilli, G. and Bourqui, R. and Auber, D. and Santucci, G. and Capobianco, R. and Bertini, E. and Giot, R. and Angelini, M.},
+  journal   = {Computer Graphics Forum},<br>
+  title     = {State of the Art of Visual Analytics for eXplainable Deep Learning},<br>
+  year      = {2023},<br>
+  issn      = {1467-8659},<br>
+  month     = feb,<br>
+  number    = {1},<br>
+  pages     = {319--355},<br>
+  volume    = {42},<br>
+  doi       = {10.1111/cgf.14733},<br>
+  publisher = {Wiley},<br>
+}"
+
+- title: "Explainable AI in drug discovery: self-interpretable graph neural network for molecular property prediction using concept whitening"
+  authors:  Michela Proietti, Alessio Ragno, Biagio La Rosa, Rino Ragno, and Roberto Capobianco
+  year: 2023
+  publisher: Machine Learning Journal
+  link:
+    url:   https://link.springer.com/article/10.1007/s10994-023-06369-y
+    display: Paper
+  code: https://github.com/KRLGroup/GraphCWN
+  bibtex: "@Article{Proietti2023,<br>
+  author    = {Michela Proietti and Alessio Ragno and Biagio La Rosa and Rino Ragno and Roberto Capobianco},<br>
+  journal   = {Machine Learning},<br>
+  title     = {Explainable {AI} in drug discovery: self-interpretable graph neural network for molecular property prediction using concept whitening},<br>
+  year      = {2023},<br>
+  month     = {oct},<br>
+  doi       = {10.1007/s10994-023-06369-y},<br>
+  publisher = {Springer Science and Business Media {LLC}},<br>
+}"
+
+
 - title: "Grounding LTLf Specifications in Image Sequences"
   authors:  Elena Umili, Roberto Capobianco and Giuseppe De Giacomo
   year: 2023
