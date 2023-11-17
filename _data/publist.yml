@@ -65,6 +65,7 @@
     url:   https://link.springer.com/article/10.1007/s10994-023-06369-y
     display: Paper
   code: https://github.com/KRLGroup/GraphCWN
+  highlight: 1
   bibtex: "@Article{Proietti2023,<br>
   author    = {Michela Proietti and Alessio Ragno and Biagio La Rosa and Rino Ragno and Roberto Capobianco},<br>
   journal   = {Machine Learning},<br>
