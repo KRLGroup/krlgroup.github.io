@@ -5,7 +5,7 @@
   link:
     url:  https://openreview.net/forum?id=51PLYhMFWz
     display: Paper
-  code: 
+  code: https://github.com/krlgroup/clustered-compositional-explanations
   bibtex: "@inproceedings{
     LaRosa2023Towards,<br>
     title={Towards a fuller understanding of neurons with Clustered Compositional Explanations},<br>
