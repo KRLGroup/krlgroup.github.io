@@ -81,7 +81,7 @@
     url:   https://link.springer.com/article/10.1007/s10994-023-06369-y
     display: Paper
   code: https://github.com/KRLGroup/GraphCWN
-  highlight: 2
+  highlight: 1
   description: TO DO
   bibtex: "@Article{Proietti2023,<br>
   author    = {Michela Proietti and Alessio Ragno and Biagio La Rosa and Rino Ragno and Roberto Capobianco},<br>
@@ -256,6 +256,7 @@ title = {A MOON OPTICAL NAVIGATION ROBOTIC FACILITY ON SIMULATED TERRAIN: MONSTE
   code: 
   highlight: 1
   description: The paper presents GT Sophy, which is the world's first AI agent to outrace the world's top players in Gran Turismo Sport,  utilizing a novel deep reinforcement learning platform and demonstrating the power of AI to deliver new gaming and entertainment experiences.
+  image: sophy.jpeg
   bibtex: "@Article{Wurman2022,<br>
   author    = {Peter R. Wurman and Samuel Barrett and Kenta Kawamoto and James MacGlashan and Kaushik Subramanian and Thomas J. Walsh and Roberto Capobianco and Alisa Devlic and Franziska Eckert and Florian Fuchs and Leilani Gilpin and Piyush Khandelwal and Varun Kompella and HaoChih Lin and Patrick MacAlpine and Declan Oller and Takuma Seno and Craig Sherstan and Michael D. Thomure and Houmehr Aghabozorgi and Leon Barrett and Rory Douglas and Dion Whitehead and Peter Dürr and Peter Stone and Michael Spranger and Hiroaki Kitano},<br>
   journal   = {Nature},<br>
