@@ -1,5 +1,21 @@
+- title: "Towards a fuller understanding of neurons with Clustered Compositional Explanations"
+  authors:  Biagio La Rosa, Leilani Gilpin, and Roberto Capobianco
+  year: 2023
+  publisher: NeurIPS 2023
+  link:
+    url:  https://openreview.net/forum?id=51PLYhMFWz
+    display: Paper
+  code: 
+  bibtex: "@inproceedings{
+    LaRosa2023Towards,<br>
+    title={Towards a fuller understanding of neurons with Clustered Compositional Explanations},<br>
+    author={Biagio La Rosa and Leilani H. Gilpin and Roberto Capobianco},<br>
+    booktitle={Thirty-seventh Conference on Neural Information Processing Systems},<br>
+    year={2023}<br>
+    }"
+
 - title: "Oxidative DNA damage preventive activity of essential oils of three Pinus species: P. mugo, P. sibirica, and P. silvestre"
-  authors:  Sanja Matić, Tamara Mladenović, Milan Mladenović, Nevena Tomašević, Roberto Capobianco, Alessio Ragno, F Sapienza, Roberta Astolfi, Rino Ragno
+  authors:  Sanja Matić, Tamara Mladenović, Milan Mladenović, Nevena Tomašević, Roberto Capobianco, Alessio Ragno, Filippo U. Sapienza, Roberta Astolfi, Rino Ragno
   year: 2023
   publisher: 2nd International Conference on Chemo and Bioinformatics
   link:
