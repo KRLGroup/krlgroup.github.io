@@ -83,7 +83,7 @@
   code: https://github.com/KRLGroup/GraphCWN
   highlight: 1
   description: The paper proposes the first concept-based explainability method for graph neural networks, by adapting the concept whitening module to work with graph data, and provides a way to build interpretable quantitative structure-activity relationship models for drug discovery.
-  image: drugdiscovery.jpeg
+  image: drugdiscovery.png
   bibtex: "@Article{Proietti2023,<br>
   author    = {Michela Proietti and Alessio Ragno and Biagio La Rosa and Rino Ragno and Roberto Capobianco},<br>
   journal   = {Machine Learning},<br>
