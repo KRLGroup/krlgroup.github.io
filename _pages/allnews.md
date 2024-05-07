@@ -17,7 +17,10 @@ permalink: /allnews.html
 
         <div class="item">
             <img class="slider_img" src="{{ site.url }}{{ site.baseurl }}/images/slider/memoryexp.png" alt="Slide 1" />
-        </div>        
+        </div>  
+        <div class="item">
+            <img class="slider_img" src="{{ site.url }}{{ site.baseurl }}/images/slider/biagio.jpeg" alt="Biagio" />
+        </div>
         <div class="item active">
             <img  class="slider_img" src="{{ site.url }}{{ site.baseurl }}/images/slider/sapienza.webp" alt="Slide 2" />
         </div>
