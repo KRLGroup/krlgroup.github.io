@@ -1,3 +1,98 @@
+- title: "Transfer Learning between non-Markovian RL Tasks through Semantic Representations of Temporal States"
+  authors:  Andrea Fanti, Elena Umili, and Roberto Capobianco
+  year: 2024
+  publisher: 1st International Workshop on Adjustable Autonomy and Physical Embodied Intelligence (AAPEI 2024)
+  link:
+    url:  https://ceur-ws.org/Vol-3779/paper4.pdf
+    display: Paper
+  code: https://github.com/KRLGroup/kernel-representations-transfer
+  
+
+- title: "Enhancing Deep Sequence Generation with Logical Temporal Knowledge"
+  authors:  Elena Umili, Gabriel Paludo Licks, and Fabio Patrizi
+  year: 2024
+  publisher: 3rd International Workshop on Process Management in the AI Era (PMAI 2024)
+  link:
+    url:  https://ceur-ws.org/Vol-3779/paper4.pdf
+    display: Paper
+  code: https://github.com/whitemech/suffix-prediction-pmai2024
+  bibtex: "@inproceedings{UmiliEnhancing,
+  author       = {Elena Umili and
+                  Gabriel Paludo Licks and
+                  Fabio Patrizi},
+  title        = {Enhancing Deep Sequence Generation with Logical Temporal Knowledge},
+  booktitle    = {Proceedings of the 3rd International Workshop on Process Management
+                  in the {AI} Era {(PMAI} 2024) co-located with 27th European Conference
+                  on Artificial Intelligence {(ECAI} 2024), Santiago de Compostela,
+                  Spain, October 19, 2024},
+  series       = {{CEUR} Workshop Proceedings},
+  volume       = {3779},
+  pages        = {23--34},
+  publisher    = {CEUR-WS.org},
+  year         = {2024},
+  url          = {https://ceur-ws.org/Vol-3779/paper4.pdf},
+  timestamp    = {Mon, 28 Oct 2024 16:46:06 +0100},
+  biburl       = {https://dblp.org/rec/conf/pmai/UmiliLP24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+
+- title: "Neural Reward Machines"
+  authors:  Elena Umili, Francesco Argenziano, and Roberto Capobianco
+  year: 2024
+  publisher: 27th European Conference on Artificial Intelligence (ECAI 2024)
+  link:
+    url:  https://ebooks.iospress.nl/doi/10.3233/FAIA240596
+    display: Paper
+  code: https://github.com/whitemech/DeepDFA
+  bibtex: "@inproceedings{UmiliNeuralRewardMachines,
+  author       = {Elena Umili and
+                  Francesco Argenziano and
+                  Roberto Capobianco},
+  title        = {Neural Reward Machines},
+  booktitle    = {{ECAI} 2024 - 27th European Conference on Artificial Intelligence,
+                  19-24 October 2024, Santiago de Compostela, Spain - Including 13th
+                  Conference on Prestigious Applications of Intelligent Systems {(PAIS}
+                  2024)},
+  series       = {Frontiers in Artificial Intelligence and Applications},
+  volume       = {392},
+  pages        = {3055--3062},
+  publisher    = {{IOS} Press},
+  year         = {2024},
+  url          = {https://doi.org/10.3233/FAIA240847},
+  doi          = {10.3233/FAIA240847},
+  timestamp    = {Fri, 25 Oct 2024 12:13:46 +0200},
+  biburl       = {https://dblp.org/rec/conf/ecai/UmiliAC24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+
+- title: "DeepDFA: Automata Learning through Neural Probabilistic Relaxations"
+  authors:  Elena Umili, and Roberto Capobianco
+  year: 2024
+  publisher: 27th European Conference on Artificial Intelligence (ECAI 2024)
+  link:
+    url:  https://ebooks.iospress.nl/doi/10.3233/FAIA240596
+    display: Paper
+  code: https://github.com/whitemech/DeepDFA
+  bibtex: "@inproceedings{UmiliDeepDFA,
+  author       = {Elena Umili and
+                  Roberto Capobianco},
+  title        = {DeepDFA: Automata Learning through Neural Probabilistic Relaxations},
+  booktitle    = {{ECAI} 2024 - 27th European Conference on Artificial Intelligence,
+                  19-24 October 2024, Santiago de Compostela, Spain - Including 13th
+                  Conference on Prestigious Applications of Intelligent Systems {(PAIS}
+                  2024)},
+  series       = {Frontiers in Artificial Intelligence and Applications},
+  volume       = {392},
+  pages        = {1051--1058},
+  publisher    = {{IOS} Press},
+  year         = {2024},
+  url          = {https://doi.org/10.3233/FAIA240596},
+  doi          = {10.3233/FAIA240596},
+  timestamp    = {Fri, 25 Oct 2024 12:13:46 +0200},
+  biburl       = {https://dblp.org/rec/conf/ecai/UmiliC24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+
 - title: "Towards a fuller understanding of neurons with Clustered Compositional Explanations"
   authors:  Biagio La Rosa, Leilani Gilpin, and Roberto Capobianco
   year: 2023
