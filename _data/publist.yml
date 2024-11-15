@@ -1,3 +1,29 @@
+- title: "Identifying Candidates for Protein-Protein Interaction: A Focus on NKp46's Ligands"
+  authors:  Alessia Borghini, Federico Di Valerio, Alessio Ragno, and Roberto Capobianco
+  year: 2024
+  publisher: 1st Workshop on Explainable Artificial Intelligence for the Medical Domain (EXPLIMED 2024)
+  link:
+    url:  https://ceur-ws.org/Vol-3831/paper14.pdf
+    display: Paper
+  
+
+- title: "Transparent Explainable Logic Layers"
+  authors:  Alessio Ragno, Marc Plantevit, Celine Robardet, and Roberto Capobianco
+  year: 2024
+  publisher: 27th European Conference on Artificial Intelligence (ECAI 2024)
+  link:
+    url:  https://ebooks.iospress.nl/doi/10.3233/FAIA240579
+    display: Paper
+  code: https://github.com/KRLGroup/TELL
+  bibtex: "@incollection{ragno2024transparent,
+  title={Transparent Explainable Logic Layers},
+  author={Ragno, Alessio and Plantevit, Marc and Robardet, Celine and Capobianco, Roberto},
+  booktitle={ECAI 2024},
+  pages={914--921},
+  year={2024},
+  publisher={IOS Press}
+}"
+
 - title: "Transfer Learning between non-Markovian RL Tasks through Semantic Representations of Temporal States"
   authors:  Andrea Fanti, Elena Umili, and Roberto Capobianco
   year: 2024
