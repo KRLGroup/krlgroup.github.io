@@ -16,13 +16,16 @@
     display: Paper
   code: https://github.com/KRLGroup/TELL
   bibtex: "@incollection{ragno2024transparent,
-  title={Transparent Explainable Logic Layers},
-  author={Ragno, Alessio and Plantevit, Marc and Robardet, Celine and Capobianco, Roberto},
-  booktitle={ECAI 2024},
-  pages={914--921},
-  year={2024},
-  publisher={IOS Press}
-}"
+    title={Transparent Explainable Logic Layers},
+    author={Ragno, Alessio and Plantevit, Marc and Robardet, Celine and Capobianco, Roberto},
+    booktitle={ECAI 2024},
+    pages={914--921},
+    year={2024},
+    publisher={IOS Press}
+  }"
+  highlight: 1
+  image: https://raw.githubusercontent.com/KRLGroup/TELL/refs/heads/main/tell.png
+  description: The paper proposes a Transparent Explainable Logic Layer (TELL), a novel approach to constructing intrinsically interpretable layers within neural networks. By constraining a feed-forward layer with positive weights and leveraging specialized activation functions, TELL enables the direct translation of model behavior into logic rules. Unlike prior methods limited to binary data, TELL introduces a mechanism for thresholding real values to create predicates, broadening its applicability. The approach achieves comparable classification performance to state-of-the-art models while providing superior explanatory power, as evidenced by the alignment between model outputs and logic-based explanations.
 
 - title: "Transfer Learning between non-Markovian RL Tasks through Semantic Representations of Temporal States"
   authors:  Andrea Fanti, Elena Umili, and Roberto Capobianco
