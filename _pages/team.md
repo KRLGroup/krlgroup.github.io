@@ -185,6 +185,15 @@ permalink: /team/
 
 <div>
 <br/>
+<h3 class="person-name">Graduated PhD Students</h3>
+<br/>
+{% for member in site.data.alumni_phd %}
+{{ member.name }}
+{% endfor %}
+</div> 
+
+<div>
+<br/>
 <h3 class="person-name">Past students</h3>
 <br/>
 {% for member in site.data.alumni_msc %}
