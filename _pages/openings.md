@@ -37,7 +37,7 @@ Topics:
 If you are a Master student at Sapienza University looking for a Master project, contact me per email ( capobianco AT diag.uniroma1.it) or stop by my office. We are interested mainly on thesis projects about robot learning, knowledge acquisition and learning, reinforcement learning or explainable artificial intelligence, but different topics are welcome!
 Here you can find a brief list of available topics for master thesis. These are only a limited set, many others are available and we are also open to your proposals. When you contact us, please identify a macro-topic (RL, XAI, CL+XAI, RL+XAI, NeSy). 
 <ul>
-  <li>Explainable Artificial Intelligence (XAI)</li> 
+<li>[XAI] Everything related to improving XAI methods.</li> 
 <li>[RL] Everything related to improving RL agents.</li> 
 <li>[XAI] <strong>Improving Transparent Explainable Logic Layers<strong>: Overcoming limitations of TELL (<a href="https://doi.org/10.3233/FAIA240579">10.3233/FAIA240579</a>)</li> 
 <li>[XAI+GNN] <strong>Prototype-based GNNs<strong>: Overcoming limitations of TELL (<a href="https://doi.org/10.1109/TAI.2022.3222618">10.1109/TAI.2022.3222618</a>)</li> 
