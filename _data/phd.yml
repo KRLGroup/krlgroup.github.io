@@ -28,15 +28,15 @@
   twitter: 
   email: 
 
-- name: Alessio Ragno
-  photo: ragno.jpg
-  info: PhD Student
-  bio: I am a Ph.D. student in Artificial Intelligence under the supervision of prof. Roberto Capobianco. I am interested in the application of AI to different scientific fields and I think that Explainable AI could play an essential role for this purpose. My Ph.D. project consists in developing model-specific XAI methods, using a topology-based approach, in order to identify and learn data representations able to provide human-interpretable explanations of the neural network predictions.I have an M.Sc. degree in AI & Robotics and a B.Sc. degree in Computer and Control Engineering. I have also some background in the application of AI to chemistry and drug discovery gained through abroad experience at the University of North Carolina and collaborations with the Pharmaceutical Chemistry and Technology Department at the Sapienza University of Rome.
-  webpage: https://alessio.ragno.info
-  github: spideralessio
-  linkedin: spideralessio
-  twitter: 
-  email:
+# - name: Alessio Ragno
+#   photo: ragno.jpg
+#   info: PhD Student
+#   bio: I am a Ph.D. student in Artificial Intelligence under the supervision of prof. Roberto Capobianco. I am interested in the application of AI to different scientific fields and I think that Explainable AI could play an essential role for this purpose. My Ph.D. project consists in developing model-specific XAI methods, using a topology-based approach, in order to identify and learn data representations able to provide human-interpretable explanations of the neural network predictions.I have an M.Sc. degree in AI & Robotics and a B.Sc. degree in Computer and Control Engineering. I have also some background in the application of AI to chemistry and drug discovery gained through abroad experience at the University of North Carolina and collaborations with the Pharmaceutical Chemistry and Technology Department at the Sapienza University of Rome.
+#   webpage: https://alessio.ragno.info
+#   github: spideralessio
+#   linkedin: spideralessio
+#   twitter: 
+#   email:
 
 - name: Michela Proietti
   photo: proietti.jpg
