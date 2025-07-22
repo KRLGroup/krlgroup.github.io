@@ -48,10 +48,23 @@ Here you can find a brief list of available topics for master thesis. These are 
 <li>[CL+XAI] <strong>XAI-guided replay per spiking neural networks</strong>: Exploit explanations to select samples to store in a replay buffer in order to make it more efficient (<a href="https://doi.org/10.1109/MLSP55844.2023.10285911">10.1109/MLSP55844.2023.10285911</a>)</li> 
 <li>[CL+XAI] <strong>Transfer/Continual learning with Graph Concept Whitening (collaboration with Rome Center for Molecular Design, Dept. Pharmaceutical Chemistry at Sapienza University of Rome)</strong>: Test the GraphCW in transfer/continual learning scenarios.
 Use the HDAC datasets (11 protein groups, with the first being much larger than the others). This application is of great interest in the pharmaceutical field, as the different proteins are used for very different purposes (e.g., weight loss vs. cancer). Therefore, understanding which properties make a molecule active for one protein (the one related to cancer) rather than another (the one related to weight loss) could make it possible to propose modifications to the proteins so that they become active for the desired target. (<a href="https://doi.org/10.1007/s10994-023-06369-y">10.1007/s10994-023-06369-y</a>)</li> 
-<li>[RL] <strong>RL Autocurricula through visual policy inspection with multi-modal LLMs</strong>. Automatic curriculum generation for RL using video-LLMs to directly inspect agents policies and assess learning progress. (https://arxiv.org/abs/2306.01711)</li>
-<li>[RL+NeSy] <strong>Autocurricula of temporally-extended RL tasks for zero-shot instruction-following</strong>. Automatic curriculum generation of temporally-extended RL tasks represented with formal specifications (e.g. reward machines), with the aim of producing agents that can generalize zero-shot to unseen specifications. (https://arxiv.org/abs/2010.03950, https://arxiv.org/abs/1807.06333, https://arxiv.org/abs/2102.06858, https://arxiv.org/abs/2010.03934, https://arxiv.org/abs/2301.07608)</li>
-<li>[RL+NeSy] <strong>Natural language instructions to policies via LLMs+NeSy RL</strong>. Training RL agents capable of following natural language instructions by first turning them into formal specifications that are then solved via NeSy RL. (https://arxiv.org/abs/2010.03950, https://arxiv.org/abs/1807.06333, https://arxiv.org/abs/2102.06858)</li>
-<li>[RL+NeSy] <strong>Lightweight and transferrable semantic embeddings of temporally extended RL tasks</strong>. Semantic-preserving representations for temporally-extended tasks in RL using kernel PCA and semantic similarity. (https://arxiv.org/abs/2010.03950, https://arxiv.org/abs/1807.06333, https://ceur-ws.org/Vol-3945/paper3.pdf, https://arxiv.org/abs/2405.14389)</li>
+<li>[RL] <strong>RL Autocurricula through visual policy inspection with multi-modal LLMs</strong>. Automatic curriculum generation for RL using video-LLMs to directly inspect agents policies and assess learning progress. 
+(<a href="https://arxiv.org/abs/2306.01711" target="_blank">arxiv.org/abs/2306.01711</a>)</li>
+<li>[RL+NeSy] <strong>Autocurricula of temporally-extended RL tasks for zero-shot instruction-following</strong>. Automatic curriculum generation of temporally-extended RL tasks represented with formal specifications (e.g. reward machines), with the aim of producing agents that can generalize zero-shot to unseen specifications. 
+(<a href="https://arxiv.org/abs/2010.03950" target="_blank">2010.03950</a>, 
+<a href="https://arxiv.org/abs/1807.06333" target="_blank">1807.06333</a>, 
+<a href="https://arxiv.org/abs/2102.06858" target="_blank">2102.06858</a>, 
+<a href="https://arxiv.org/abs/2010.03934" target="_blank">2010.03934</a>, 
+<a href="https://arxiv.org/abs/2301.07608" target="_blank">2301.07608</a>)</li>
+<li>[RL+NeSy] <strong>Natural language instructions to policies via LLMs+NeSy RL</strong>. Training RL agents capable of following natural language instructions by first turning them into formal specifications that are then solved via NeSy RL. 
+(<a href="https://arxiv.org/abs/2010.03950" target="_blank">2010.03950</a>, 
+<a href="https://arxiv.org/abs/1807.06333" target="_blank">1807.06333</a>, 
+<a href="https://arxiv.org/abs/2102.06858" target="_blank">2102.06858</a>)</li>
+<li>[RL+NeSy] <strong>Lightweight and transferrable semantic embeddings of temporally extended RL tasks</strong>. Semantic-preserving representations for temporally-extended tasks in RL using kernel PCA and semantic similarity. 
+(<a href="https://arxiv.org/abs/2010.03950" target="_blank">2010.03950</a>, 
+<a href="https://arxiv.org/abs/1807.06333" target="_blank">1807.06333</a>, 
+<a href="https://ceur-ws.org/Vol-3945/paper3.pdf" target="_blank">paper3.pdf</a>, 
+<a href="https://arxiv.org/abs/2405.14389" target="_blank">2405.14389</a>)</li>
 </ul>
 
 
