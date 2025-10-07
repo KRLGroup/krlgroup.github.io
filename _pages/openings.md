@@ -65,9 +65,8 @@ Use the HDAC datasets (11 protein groups, with the first being much larger than 
 <a href="https://arxiv.org/abs/1807.06333" target="_blank">1807.06333</a>, 
 <a href="https://ceur-ws.org/Vol-3945/paper3.pdf" target="_blank">paper3.pdf</a>, 
 <a href="https://arxiv.org/abs/2405.14389" target="_blank">2405.14389</a>)</li>
-<li>[NeSy] <strong>Logically informed LLM</strong>. Training/ finetuning LLM with background knowledge in formal languages.
-(<a href="https://ceur-ws.org/Vol-3779/paper4.pdf" target="_blank">paper4.pdf</a>, 
-<a href="https://arxiv.org/abs/2504.13139" target="_blank">2504.13139</a>)</li>
+<li>[NeSy / NeSyRL] <strong> Logically informed autoregressive learning</strong>. Training/ finetuning autoregresive deep models (LLM / RL agents ) with background knowledge in formal languages. (<a href="https://ceur-ws.org/Vol-3779/paper4.pdf" target="_blank">paper4.pdf</a>, 
+<a href="https://arxiv.org/abs/2504.13139" target="_blank">2504.13139</a>, <a href="https://arxiv.org/abs/2311.00094" target="_blank">2311.00094</a>, <a href="https://arxiv.org/abs/2312.03905" target="_blank">2312.03905</a>)</li>
 </ul>
 
 
