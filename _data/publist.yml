@@ -6,9 +6,9 @@
     url:  https://wires.onlinelibrary.wiley.com/doi/10.1002/widm.70046
     display: Paper
   code: https://github.com/KRLGroup/XAI4CL
+  image: xai4cl.jpg
   bibtex: "@article{Proietti2025,
-  title = {<scp>XAI</scp>
-                    ‐Guided Continual Learning: Rationale,  Methods,  and Future Directions},
+  title = {XAI‐Guided Continual Learning: Rationale,  Methods,  and Future Directions},
   volume = {15},
   ISSN = {1942-4795},
   url = {http://dx.doi.org/10.1002/widm.70046},
@@ -30,6 +30,7 @@
   authors:  Michela Proietti, Peter R. Wurman, Peter Stone, and Roberto Capobianco
   year: 2025
   publisher: Reinforcement Learning Conference
+  highlight: 1
   link:
     url:  https://openreview.net/forum?id=oVJYozJXp8
     display: Paper
