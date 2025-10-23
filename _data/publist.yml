@@ -1,3 +1,47 @@
+- title: "XAI-Guided Continual Learning: Rationale, Methods, and Future Directions"
+  authors:  Michela Proietti, Alessio Ragno, and Roberto Capobianco
+  year: 2025
+  publisher: WIREs Data Mining and Knowledge Discovery
+  link:
+    url:  https://wires.onlinelibrary.wiley.com/doi/10.1002/widm.70046
+    display: Paper
+  code: https://github.com/KRLGroup/XAI4CL
+  bibtex: "@article{Proietti2025,
+  title = {<scp>XAI</scp>
+                    ‐Guided Continual Learning: Rationale,  Methods,  and Future Directions},
+  volume = {15},
+  ISSN = {1942-4795},
+  url = {http://dx.doi.org/10.1002/widm.70046},
+  DOI = {10.1002/widm.70046},
+  number = {4},
+  journal = {WIREs Data Mining and Knowledge Discovery},
+  publisher = {Wiley},
+  author = {Proietti,  Michela and Ragno,  Alessio and Capobianco,  Roberto},
+  year = {2025},
+  month = oct 
+}"
+
+- title: "Intermediate Layers of LLMs Align Best With the Brain by Balancing Short- and Long-Range Information"
+  authors:  Michela Proietti, Roberto Capobianco, and Mariya Toneva
+  year: 2025
+  publisher: Conference on Cognitive Computational Neuroscience
+
+- title: "ProtoCRL: Prototype-based Network for Continual Reinforcement Learning"
+  authors:  Michela Proietti, Peter R. Wurman, Peter Stone, and Roberto Capobianco
+  year: 2025
+  publisher: Reinforcement Learning Conference
+  link:
+    url:  https://openreview.net/forum?id=oVJYozJXp8
+    display: Paper
+  bibtex: "@inproceedings{
+proietti2025protocrl,
+title={Proto{CRL}: Prototype-based Network for Continual Reinforcement Learning},
+author={Michela Proietti and Peter R. Wurman and Peter Stone and Roberto Capobianco},
+booktitle={Reinforcement Learning Conference},
+year={2025},
+url={https://openreview.net/forum?id=oVJYozJXp8}
+}"
+
 - title: "Identifying Candidates for Protein-Protein Interaction: A Focus on NKp46's Ligands"
   authors:  Alessia Borghini, Federico Di Valerio, Alessio Ragno, and Roberto Capobianco
   year: 2024
@@ -5,7 +49,6 @@
   link:
     url:  https://ceur-ws.org/Vol-3831/paper14.pdf
     display: Paper
-  
 
 - title: "Transparent Explainable Logic Layers"
   authors:  Alessio Ragno, Marc Plantevit, Celine Robardet, and Roberto Capobianco
