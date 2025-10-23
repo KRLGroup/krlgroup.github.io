@@ -7,6 +7,7 @@
     display: Paper
   code: https://github.com/KRLGroup/XAI4CL
   image: xai4cl.jpg
+  highlight: 1
   description: The paper reviews the integration of explainable artificial intelligence into continual learning, a field focused on enabling neural networks to learn sequentially without catastrophic forgetting. By examining parallels between human memory processes and artificial forgetting, the work motivates the use of explainability techniques to enhance transparency and trust in continual learning systems. The review synthesizes existing approaches that apply interpretability methods to mitigate forgetting and identifies promising directions for future research grounded in both empirical neuroscience and machine learning practice.
   bibtex: "@article{Proietti2025,
   title = {XAI‐Guided Continual Learning: Rationale,  Methods,  and Future Directions},<br>
@@ -31,7 +32,6 @@
   authors:  Michela Proietti, Peter R. Wurman, Peter Stone, and Roberto Capobianco
   year: 2025
   publisher: Reinforcement Learning Conference
-  highlight: 1
   link:
     url:  https://openreview.net/forum?id=oVJYozJXp8
     display: Paper
