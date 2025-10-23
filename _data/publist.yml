@@ -9,17 +9,17 @@
   image: xai4cl.jpg
   description: The paper reviews the integration of explainable artificial intelligence into continual learning, a field focused on enabling neural networks to learn sequentially without catastrophic forgetting. By examining parallels between human memory processes and artificial forgetting, the work motivates the use of explainability techniques to enhance transparency and trust in continual learning systems. The review synthesizes existing approaches that apply interpretability methods to mitigate forgetting and identifies promising directions for future research grounded in both empirical neuroscience and machine learning practice.
   bibtex: "@article{Proietti2025,
-  title = {XAI‐Guided Continual Learning: Rationale,  Methods,  and Future Directions},
-  volume = {15},
-  ISSN = {1942-4795},
-  url = {http://dx.doi.org/10.1002/widm.70046},
-  DOI = {10.1002/widm.70046},
+  title = {XAI‐Guided Continual Learning: Rationale,  Methods,  and Future Directions},<br>
+  volume = {15},<br>
+  ISSN = {1942-4795},<br>
+  url = {http://dx.doi.org/10.1002/widm.70046},<br>
+  DOI = {10.1002/widm.70046},<br>
   number = {4},
-  journal = {WIREs Data Mining and Knowledge Discovery},
-  publisher = {Wiley},
-  author = {Proietti,  Michela and Ragno,  Alessio and Capobianco,  Roberto},
-  year = {2025},
-  month = oct 
+  journal = {WIREs Data Mining and Knowledge Discovery},<br>
+  publisher = {Wiley},<br>
+  author = {Proietti,  Michela and Ragno,  Alessio and Capobianco,  Roberto},<br>
+  year = {2025},<br>
+  month = oct <br>
 }"
 
 - title: "Intermediate Layers of LLMs Align Best With the Brain by Balancing Short- and Long-Range Information"
@@ -35,13 +35,13 @@
   link:
     url:  https://openreview.net/forum?id=oVJYozJXp8
     display: Paper
-  bibtex: "@inproceedings{
-proietti2025protocrl,
-title={Proto{CRL}: Prototype-based Network for Continual Reinforcement Learning},
-author={Michela Proietti and Peter R. Wurman and Peter Stone and Roberto Capobianco},
-booktitle={Reinforcement Learning Conference},
-year={2025},
-url={https://openreview.net/forum?id=oVJYozJXp8}
+  bibtex: "@inproceedings{<br>
+proietti2025protocrl,<br>
+title={Proto{CRL}: Prototype-based Network for Continual Reinforcement Learning},<br>
+author={Michela Proietti and Peter R. Wurman and Peter Stone and Roberto Capobianco},<br>
+booktitle={Reinforcement Learning Conference},<br>
+year={2025},<br>
+url={https://openreview.net/forum?id=oVJYozJXp8}<br>
 }"
 
 - title: "Identifying Candidates for Protein-Protein Interaction: A Focus on NKp46's Ligands"
@@ -61,12 +61,12 @@ url={https://openreview.net/forum?id=oVJYozJXp8}
     display: Paper
   code: https://github.com/KRLGroup/TELL
   bibtex: "@incollection{ragno2024transparent,
-    title={Transparent Explainable Logic Layers},
-    author={Ragno, Alessio and Plantevit, Marc and Robardet, Celine and Capobianco, Roberto},
-    booktitle={ECAI 2024},
-    pages={914--921},
-    year={2024},
-    publisher={IOS Press}
+    title={Transparent Explainable Logic Layers},<br>
+    author={Ragno, Alessio and Plantevit, Marc and Robardet, Celine and Capobianco, Roberto},<br>
+    booktitle={ECAI 2024},<br>
+    pages={914--921},<br>
+    year={2024},<br>
+    publisher={IOS Press}<br>
   }"
   highlight: 1
   image: tell.png
@@ -90,24 +90,24 @@ url={https://openreview.net/forum?id=oVJYozJXp8}
     url:  https://ceur-ws.org/Vol-3779/paper4.pdf
     display: Paper
   code: https://github.com/whitemech/suffix-prediction-pmai2024
-  bibtex: "@inproceedings{UmiliEnhancing,
-  author       = {Elena Umili and
-                  Gabriel Paludo Licks and
-                  Fabio Patrizi},
-  title        = {Enhancing Deep Sequence Generation with Logical Temporal Knowledge},
-  booktitle    = {Proceedings of the 3rd International Workshop on Process Management
-                  in the {AI} Era {(PMAI} 2024) co-located with 27th European Conference
-                  on Artificial Intelligence {(ECAI} 2024), Santiago de Compostela,
-                  Spain, October 19, 2024},
-  series       = {{CEUR} Workshop Proceedings},
-  volume       = {3779},
-  pages        = {23--34},
-  publisher    = {CEUR-WS.org},
-  year         = {2024},
-  url          = {https://ceur-ws.org/Vol-3779/paper4.pdf},
-  timestamp    = {Mon, 28 Oct 2024 16:46:06 +0100},
-  biburl       = {https://dblp.org/rec/conf/pmai/UmiliLP24.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  bibtex: "@inproceedings{UmiliEnhancing,<br>
+  author       = {Elena Umili and<br>
+                  Gabriel Paludo Licks and<br>
+                  Fabio Patrizi},<br>
+  title        = {Enhancing Deep Sequence Generation with Logical Temporal Knowledge},<br>
+  booktitle    = {Proceedings of the 3rd International Workshop on Process Management<br>
+                  in the {AI} Era {(PMAI} 2024) co-located with 27th European Conference<br>
+                  on Artificial Intelligence {(ECAI} 2024), Santiago de Compostela,<br>
+                  Spain, October 19, 2024},<br>
+  series       = {{CEUR} Workshop Proceedings},<br>
+  volume       = {3779},<br>
+  pages        = {23--34},<br>
+  publisher    = {CEUR-WS.org},<br>
+  year         = {2024},<br>
+  url          = {https://ceur-ws.org/Vol-3779/paper4.pdf},<br>
+  timestamp    = {Mon, 28 Oct 2024 16:46:06 +0100},<br>
+  biburl       = {https://dblp.org/rec/conf/pmai/UmiliLP24.bib},<br>
+  bibsource    = {dblp computer science bibliography, https://dblp.org}<br>
 }"
 
 - title: "Neural Reward Machines"
@@ -119,24 +119,24 @@ url={https://openreview.net/forum?id=oVJYozJXp8}
     display: Paper
   code: https://github.com/whitemech/DeepDFA
   bibtex: "@inproceedings{UmiliNeuralRewardMachines,
-  author       = {Elena Umili and
-                  Francesco Argenziano and
-                  Roberto Capobianco},
+  author       = {Elena Umili and<br>
+                  Francesco Argenziano and<br>
+                  Roberto Capobianco},<br>
   title        = {Neural Reward Machines},
-  booktitle    = {{ECAI} 2024 - 27th European Conference on Artificial Intelligence,
-                  19-24 October 2024, Santiago de Compostela, Spain - Including 13th
-                  Conference on Prestigious Applications of Intelligent Systems {(PAIS}
-                  2024)},
-  series       = {Frontiers in Artificial Intelligence and Applications},
-  volume       = {392},
-  pages        = {3055--3062},
-  publisher    = {{IOS} Press},
-  year         = {2024},
-  url          = {https://doi.org/10.3233/FAIA240847},
-  doi          = {10.3233/FAIA240847},
-  timestamp    = {Fri, 25 Oct 2024 12:13:46 +0200},
-  biburl       = {https://dblp.org/rec/conf/ecai/UmiliAC24.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  booktitle    = {{ECAI} 2024 - 27th European Conference on Artificial Intelligence,<br>
+                  19-24 October 2024, Santiago de Compostela, Spain - Including 13th<br>
+                  Conference on Prestigious Applications of Intelligent Systems {(PAIS}<br>
+                  2024)},<br>
+  series       = {Frontiers in Artificial Intelligence and Applications},<br>
+  volume       = {392},<br>
+  pages        = {3055--3062},<br>
+  publisher    = {{IOS} Press},<br>
+  year         = {2024},<br>
+  url          = {https://doi.org/10.3233/FAIA240847},<br>
+  doi          = {10.3233/FAIA240847},<br>
+  timestamp    = {Fri, 25 Oct 2024 12:13:46 +0200},<br>
+  biburl       = {https://dblp.org/rec/conf/ecai/UmiliAC24.bib},<br>
+  bibsource    = {dblp computer science bibliography, https://dblp.org}<br>
 }"
 
 - title: "DeepDFA: Automata Learning through Neural Probabilistic Relaxations"
@@ -148,23 +148,23 @@ url={https://openreview.net/forum?id=oVJYozJXp8}
     display: Paper
   code: https://github.com/whitemech/DeepDFA
   bibtex: "@inproceedings{UmiliDeepDFA,
-  author       = {Elena Umili and
+  author       = {Elena Umili and<br>
                   Roberto Capobianco},
-  title        = {DeepDFA: Automata Learning through Neural Probabilistic Relaxations},
-  booktitle    = {{ECAI} 2024 - 27th European Conference on Artificial Intelligence,
-                  19-24 October 2024, Santiago de Compostela, Spain - Including 13th
-                  Conference on Prestigious Applications of Intelligent Systems {(PAIS}
-                  2024)},
-  series       = {Frontiers in Artificial Intelligence and Applications},
-  volume       = {392},
-  pages        = {1051--1058},
-  publisher    = {{IOS} Press},
-  year         = {2024},
-  url          = {https://doi.org/10.3233/FAIA240596},
-  doi          = {10.3233/FAIA240596},
-  timestamp    = {Fri, 25 Oct 2024 12:13:46 +0200},
-  biburl       = {https://dblp.org/rec/conf/ecai/UmiliC24.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  title        = {DeepDFA: Automata Learning through Neural Pr<br>obabilistic Relaxations},<br>
+  booktitle    = {{ECAI} 2024 - 27th European Conference on Artificial Intelligence,<br>
+                  19-24 October 2024, Santiago de Compostela, Spain - Including 13th<br>
+                  Conference on Prestigious Applications of Intelligent Systems {(PAIS}<br>
+                  2024)},<br>
+  series       = {Frontiers in Artificial Intelligence and Applications},<br>
+  volume       = {392},<br>
+  pages        = {1051--1058},<br>
+  publisher    = {{IOS} Press},<br>
+  year         = {2024},<br>
+  url          = {https://doi.org/10.3233/FAIA240596},<br>
+  doi          = {10.3233/FAIA240596},<br>
+  timestamp    = {Fri, 25 Oct 2024 12:13:46 +0200},<br>
+  biburl       = {https://dblp.org/rec/conf/ecai/UmiliC24.bib},<br>
+  bibsource    = {dblp computer science bibliography, https://dblp.org}<br>
 }"
 
 - title: "Towards a fuller understanding of neurons with Clustered Compositional Explanations"
