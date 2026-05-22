@@ -1,3 +1,25 @@
+- title: "CIP-Net: Continual Interpretable Prototype-based Network"
+  authors:  Federico Di Valerio, Michela Proietti, Alessio Ragno, Roberto Capobianco
+  year: 2026
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  link:
+    url:  https://ojs.aaai.org/index.php/AAAI/article/view/39216/48195
+    display: Paper
+  code: https://github.com/kRLGroup/cip-net
+  image: cipnet.png
+  highlight: 1
+  description:  In this work, we introduce CIP-Net, an exemplar-free self-explainable prototype-based model designed for continual learning. CIP-Net avoids storing past examples and maintains a simple architecture, while still providing useful explanations and strong performance.
+  bibtex: "@inproceedings{di2026cip,
+  title={CIP-Net: Continual Interpretable Prototype-based Network},
+  author={Di Valerio, Federico and Proietti, Michela and Ragno, Alessio and Capobianco, Roberto},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={25},
+  pages={20772--20780},
+  year={2026}
+}"
+
+
 - title: "XAI-Guided Continual Learning: Rationale, Methods, and Future Directions"
   authors:  Michela Proietti, Alessio Ragno, and Roberto Capobianco
   year: 2025
