@@ -66,6 +66,15 @@ year={2025},<br>
 url={https://openreview.net/forum?id=oVJYozJXp8}<br>
 }"
 
+- title: "IMPO: Interpretable memory-based prototypical pooling"
+  authors:  Alessio Ragno, and Roberto Capobianco
+  year: 2025
+  publisher: Proceedings of the Eighteenth ACM International Conference on Web Search and Data Mining
+  link:
+    url:  https://dl.acm.org/doi/abs/10.1145/3701551.3703543
+    display: Paper
+  code: https://github.com/KRLGroup/IMPO
+
 - title: "Identifying Candidates for Protein-Protein Interaction: A Focus on NKp46's Ligands"
   authors:  Alessia Borghini, Federico Di Valerio, Alessio Ragno, and Roberto Capobianco
   year: 2024
