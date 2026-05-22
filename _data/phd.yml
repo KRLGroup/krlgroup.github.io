@@ -18,15 +18,15 @@
 #   twitter: larosabiagio
 #   email: larosa@diag.uniroma1.it
 
-- name: Giulia Ciabatti
-  photo: ciabatti.jpg
-  info: PhD Student
-  bio: I am a PhD student at Sapienza, University of Rome. My interests include AI and Robotics, Aerospace Systems, and Astrophysics. My research is focused on developing techniques for interpretability and performance enhancement of Deep Learning, in particular for Deep Reinforcement Learning, by means of a Physics-Informing approach. I am especially interested in developing my research in the fields of aeronautic and space exploration systems, mobile robotics, and autonomous manned and unmanned vehicles. I have a B. Sc. in "Aerospace Engineering" and a M. Sc. Degree in "Artificial Intelligence and Robotics", both earned at Sapienza University.
-  webpage: 
-  github: 
-  linkedin: giulia-ciabatti-6797b1194
-  twitter: 
-  email: 
+# - name: Giulia Ciabatti
+#   photo: ciabatti.jpg
+#   info: PhD Student
+#   bio: I am a PhD student at Sapienza, University of Rome. My interests include AI and Robotics, Aerospace Systems, and Astrophysics. My research is focused on developing techniques for interpretability and performance enhancement of Deep Learning, in particular for Deep Reinforcement Learning, by means of a Physics-Informing approach. I am especially interested in developing my research in the fields of aeronautic and space exploration systems, mobile robotics, and autonomous manned and unmanned vehicles. I have a B. Sc. in "Aerospace Engineering" and a M. Sc. Degree in "Artificial Intelligence and Robotics", both earned at Sapienza University.
+#   webpage: 
+#   github: 
+#   linkedin: giulia-ciabatti-6797b1194
+#   twitter: 
+#   email: 
 
 # - name: Alessio Ragno
 #   photo: ragno.jpg
@@ -38,15 +38,15 @@
 #   twitter: 
 #   email:
 
-- name: Michela Proietti
-  photo: proietti.jpg
-  info: PhD Student
-  bio: I am a Ph.D. student in Artificial Intelligence at Sapienza University of Rome. I previously obtained a B.Sc. in Computer and Control Engineering and a M.Sc. in Artificial Intelligence and Robotics both from Sapienza University. I am interested in explainable AI, representation learning, reinforcement learning and their close link with neuroscience. Starting from findings from the neuroscientific domain, my research is focused on the use of XAI methods to study how memorization of the input is influenced by its representation in order to address the problem of catastrophic forgetting in continual learning.
-  webpage: 
-  github: 
-  linkedin: michela-proietti-5690b3208
-  twitter: 
-  email:
+# - name: Michela Proietti
+#   photo: proietti.jpg
+#   info: PhD Student
+#   bio: I am a Ph.D. student in Artificial Intelligence at Sapienza University of Rome. I previously obtained a B.Sc. in Computer and Control Engineering and a M.Sc. in Artificial Intelligence and Robotics both from Sapienza University. I am interested in explainable AI, representation learning, reinforcement learning and their close link with neuroscience. Starting from findings from the neuroscientific domain, my research is focused on the use of XAI methods to study how memorization of the input is influenced by its representation in order to address the problem of catastrophic forgetting in continual learning.
+#   webpage: 
+#   github: 
+#   linkedin: michela-proietti-5690b3208
+#   twitter: 
+#   email:
 
 - name: Andrea Fanti
   photo: fanti.jpeg
